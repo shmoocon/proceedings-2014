@@ -13,7 +13,7 @@ Many people have an interest in “the law.” Most want to avoid violating the 
 
 Thus basic awareness of what “the law” means, examples of how some laws might apply, and general resources mighty help security researchers.
 
-##What Is “the Law?”##
+## What Is “the Law?”
 
 Sources of “the law” include treaties, constitutions, statutes, regulations, rules, ordinances, and court opinions. ![\[Illustration: U.S. Sources of Law\]](US_Sources_of_Law_Rev.png "U.S. Sources of Law") Furthermore, these sources might be international, federal, state, or local. Some come from the judiciary; others from regulatory or administrative agencies (think IRS or FAA); others from legislators; and others from local governments. In addition, the common-law serves as a sometimes murky back-drop to the written law. Thus, “the law” exists at multiple levels and derives from multiple sources.
  
