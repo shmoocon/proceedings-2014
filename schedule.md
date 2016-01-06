@@ -51,12 +51,12 @@ BELAY IT
 ## BRING IT ON
 
 1.	Abusing ACPI Control Methods- Assambly
-	2.	Arms Race: The Story of (In)-Secure Bootloaders - Lee Harrison and Kang Li
-	3.	How to Train your Snapdragon: Exploring Power Frameworks on Android - Josh “m0nk” Thomas
-	4.	LTE vs. Darwin - Hendrik Schmidt and Brian Butterly
-	5.	Malicious Online Activities Related to the 2012 U.S. General Election - Joshua Franklin, Robert Tarlecki and Matthew Jablonski
-	6.	The NSA: Capabilities and Countermeasures - Bruce Schneier
-	7.	Syncing Mentorship Between Winners And Beginners - Tarah Wheeler Van Vlack and Liz Dahlstrom
-	8.	Technology Law Issues for Security Professionals - Shannon Brown
-	9.	Vehicle Forensics - The Data Beyond the Dashboard - Courtney Lancaster
-	10.	You Don’t Have the Evidence - Scott Moulton
+2.	Arms Race: The Story of (In)-Secure Bootloaders - Lee Harrison and Kang Li
+3.	How to Train your Snapdragon: Exploring Power Frameworks on Android - Josh “m0nk” Thomas
+4.	LTE vs. Darwin - Hendrik Schmidt and Brian Butterly
+5.	Malicious Online Activities Related to the 2012 U.S. General Election - Joshua Franklin, Robert Tarlecki and Matthew Jablonski
+6.	The NSA: Capabilities and Countermeasures - Bruce Schneier
+7.	Syncing Mentorship Between Winners And Beginners - Tarah Wheeler Van Vlack and Liz Dahlstrom
+8.	Technology Law Issues for Security Professionals - Shannon Brown
+9.	Vehicle Forensics - The Data Beyond the Dashboard - Courtney Lancaster
+10.	You Don’t Have the Evidence - Scott Moulton
