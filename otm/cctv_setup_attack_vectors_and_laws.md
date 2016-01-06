@@ -68,17 +68,10 @@ Further examination of laws reveals that if you have a CCTV system, it can be ev
 Sources
 ---------
 
-Copper Wire ($11.19)
-http://www.amazon.com/dp/B003HGHQ56 
-
-ON/OFF Switches ($5.34)
-http://www.amazon.com/dp/B008MU4H1I/
-
-9-V Batteries ($17.50)
-http://www.amazon.com/dp/B00009V2QZ/
-
-9-V Battery Connectors ($5.48)
-http://www.amazon.com/dp/B00AUB8OHU
+* Copper Wire ($11.19) http://www.amazon.com/dp/B003HGHQ56 
+* ON/OFF Switches ($5.34) http://www.amazon.com/dp/B008MU4H1I/
+* 9-V Batteries ($17.50) http://www.amazon.com/dp/B00009V2QZ/
+* 9-V Battery Connectors ($5.48) http://www.amazon.com/dp/B00AUB8OHU
 
 Infrared LEDs ($7.87)
 http://www.amazon.com/dp/B008QUUEYS
