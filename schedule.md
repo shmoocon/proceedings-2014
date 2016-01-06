@@ -62,7 +62,7 @@
 6. Practical Applications of Data Science in Detection
   - Mike Sconzo
   - Brian Wylie
-7. Raising Costs for your Attackers Instead of your CFO
+7. [Raising Costs for your Attackers Instead of your CFO](belay/03_raising_costs_for_your_attackers_instead_of.md)
   - Aaron Beuhring
   - Kyle Salous
 8. The “Science of Cyber” and the Next Generation of Security Tools
