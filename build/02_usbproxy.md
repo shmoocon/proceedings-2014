@@ -38,11 +38,7 @@ The USBProxy code consists of two parts, a relayer and a set of plugins. The rel
 
 ![USBProxy Architecture](imgs/USBProxy_arch.png "USBProxy Architecture")
 
-There are four plugin categories: host proxies, device proxies, filters and
-injectors. The proxies are used to communicate with external hosts or devices
-through gadgetfs and libusb. There are also proxies that relay packets via a
-TCP/IP connection, allowing devices to be used remotely while appearing to be
-locally connected.
+There are four plugin categories: host proxies, device proxies, filters and injectors. The proxies are used to communicate with external hosts or devices through gadgetfs and libusb. There are also proxies that relay packets via a TCP/IP connection, allowing devices to be used remotely while appearing to be locally connected.
 
 Filters are used to read and modify packets in transit. Some filters log packets
 without modification, while others can be used to filter unwanted packets or
