@@ -47,7 +47,7 @@
 
 ## BELAY IT
 
-1. A Critical Review of Spatial Analysis
+1. [A Critical Review of Spatial Analysis](belay/01_a_critical_review_of_spatial_analysis.md)
   - David Giametta
   - Andrew Potter
 2. Data Whales and Troll Tears: Beat the Odds in InfoSec
