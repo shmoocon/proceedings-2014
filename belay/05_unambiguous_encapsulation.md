@@ -16,9 +16,7 @@ Below we demonstrate an example of unambiguous encapsulation using a delimited b
 
 ##An example of unambiguous encapsulation: Delimited Base64 Files
 
-The csv file format is simpler and safer to parse if each data element in the
-file is encoded with characters that are never used as (outer) delimiters. A
-traditional csv file might look as follows:
+The csv file format is simpler and safer to parse if each data element in the file is encoded with characters that are never used as (outer) delimiters. A traditional csv file might look as follows:
 
 	shmoocon,january,"washington, dc"
 	defcon,july,las vegas
