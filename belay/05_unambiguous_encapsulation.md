@@ -48,11 +48,9 @@ When data are stored or transmitted using a noisy or lossy medium, they are typi
 
 It may be beneficial to select these codes such that distinct codewords are used to represent metadata (outer) and encapsulated (inner) data. We have begun to discover codes that have interesting encapsulation properties.
 
-To date, we have sought codes that consists of linear block codes providing more
-bits of isolation than detection. As far as we are aware, the property of
-isolation is a novel way to judge the effectiveness of error control codes.
-Existing codes are selected primarily by the probability of uncorrectable or
-undetectable bit errors, the complexity of the decoder, and the efficiency of
+To date, we have sought codes that consists of linear block codes providing more bits of isolation than detection. As far as we are aware, the property of isolation is a novel way to judge the effectiveness of error control codes.
+
+Existing codes are selected primarily by the probability of uncorrectable or undetectable bit errors, the complexity of the decoder, and the efficiency of
 the code. We propose that future selection of error control codes should also
 consider the probability of bit errors breaking encapsulation.
 
