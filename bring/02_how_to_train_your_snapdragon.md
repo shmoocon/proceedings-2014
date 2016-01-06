@@ -2,29 +2,17 @@
 ### Exploring Power Frameworks on Android
 
 
-Abstract:
-	Have you ever wondered how power is routed around your phone, how it is
-stored and if it could be made dangerous? I have, and I somehow talked the
-DARPA Cyber Fast Track group into funding my research into the subject and
-allowing me to name it: "Project Burner: El Telefono Inteligente de
-Fuego." The overall goal of the project was: "Can I catch a phone on fire
-using nothing but the stored energy in the battery?" and / or "Can I break
-it beyond repair?". The answer was a resounding "yes."
+## Abstract
 
-	This talk will center around how the Android (and Linux) kernels manage
-power and electricity, both from the wall and the battery. I will cover
-how those software based controls can be manipulated to fry internal
-components and brick phones in abundance. I will also walk through what
-protections have been put in place to prevent these types of attacks and
-how those mechanisms can be circumvented.
+Have you ever wondered how power is routed around your phone, how it is stored and if it could be made dangerous? I have, and I somehow talked the DARPA Cyber Fast Track group into funding my research into the subject and allowing me to name it: "Project Burner: El Telefono Inteligente de Fuego." The overall goal of the project was: "Can I catch a phone on fire using nothing but the stored energy in the battery?" and / or "Can I break it beyond repair?". The answer was a resounding "yes."
 
-Paper Synopsis:
-	This project centers around the Android (and thus Linux) power regulation
-framework. The exploration is concerned with manipulating voltages as they
-route around the phone from kernel and processor controlled PMIC hardware.
+This talk will center around how the Android (and Linux) kernels manage power and electricity, both from the wall and the battery. I will cover how those software based controls can be manipulated to fry internal components and brick phones in abundance. I will also walk through what protections have been put in place to prevent these types of attacks and how those mechanisms can be circumvented.
 
-	The full documentation for the project is here:
-	 	https://github.com/monk-dot/ProjectBurner.git
+## Paper Synopsis:
+
+This project centers around the Android (and thus Linux) power regulation framework. The exploration is concerned with manipulating voltages as they route around the phone from kernel and processor controlled PMIC hardware.
+
+The full documentation for the project is here:https://github.com/monk-dot/ProjectBurner.git
 
 	The outcome of this exploration was a fairly detailed mapping of what
 discrete hardware elements were protected from over-volting /
