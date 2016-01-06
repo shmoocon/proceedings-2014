@@ -12,7 +12,7 @@
 * [BUILD IT](build/build_it.md)
    * [ADD: Complicating Memory Forensics Through Memory Disarray](build/01_add_complicating_memory_forensics.md)
    * [USBProxy](build/02_usbproxy.md)
-   * AV-Evasion With the Veil Framework
+   * [AV-Evasion With the Veil Framework](build/03_av-evasion_with_the_veil_framework.md)
 * [BELAY IT](belay/belay_it.md)
 * [BRING IT ON](bring/bring_it_on.md)
 
