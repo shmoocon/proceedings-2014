@@ -32,12 +32,9 @@ USBProxy is built on top of an existing kernel module which provides us with sta
 
 USBProxy is an open source C++ framework that makes it easy to monitor, inject and modify USB packets in transit. To achieve this we use a BeagleBone Black[^7] running Debian Linux to act as a proxy or man-in-the-middle device. We chose the BeagleBone Black because it is cheap, widely available, open source hardware and powerful enough for our uses, but USBProxy should work on any Linux system that supports USB device mode.
 
-We chose to use gadgetfs[^8] to connect to host systems rather than developing our own kernel module because we can be sure that it will be maintained in line with kernel development. We understand that the convenience that gadgetfs provides is a tradeoff against performance, but we believe that it is a worthwhile trade to make for most uses.
+We chose to use gadgetfs[^8] to connect to host systems rather than developing our own kernel module because we can be sure that it will be maintained in line with kernel development. We understand that the convenience that gadgetfs provides is a trade off against performance, but we believe that it is a worthwhile trade to make for most uses.
 
-The USBProxy code consists of two parts, a relayer and a set of plugins. The
-relayer is used to pass packets from a host, through user defined filters, to
-the target device. The relayer makes up the core library part of the USBProxy
-code.
+The USBProxy code consists of two parts, a relayer and a set of plugins. The relayer is used to pass packets from a host, through user defined filters, to the target device. The relayer makes up the core library part of the USBProxy code.
 
 ![USBProxy Architecture](USBProxy_arch.png "USBProxy Architecture")
 
