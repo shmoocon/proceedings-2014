@@ -15,14 +15,9 @@ There are many tools available for USB investigation, but most of them have limi
 
 >Security will not get better until tools for practical exploration of the attack surface are made available
 
-We present USBProxy[2], a USB man in the middle tool designed for the BeagleBone
-Black or any hardware capable of running Linux and supporting USB device mode.
-USBProxy is open source, compatible with very low cost hardware and does not
-suffer from the limitations of other USB proxy or emulation tools.
+We present USBProxy[^2], a USB man in the middle tool designed for the BeagleBone Black or any hardware capable of running Linux and supporting USB device mode. USBProxy is open source, compatible with very low cost hardware and does not suffer from the limitations of other USB proxy or emulation tools.
 
-We have worked hard to make sure that USBProxy uses as few system resources as
-possible, while being flexible by allowing third party extensions through a
-simple plugin system.
+We have worked hard to make sure that USBProxy uses as few system resources as possible, while being flexible by allowing third party extensions through a simple plugin system.
 
 
 Background
