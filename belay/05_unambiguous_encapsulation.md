@@ -22,11 +22,7 @@ The csv file format is simpler and safer to parse if each data element in the fi
 	defcon,july,las vegas
 	toorcon,october,san diego
 
-A comma is used as a field delimiter, and a newline is used as a record
-delimiter. As a comma is a valid character within a field, we need to quote or
-escape the comma when it is used as data rather than metadata. In this respect,
-a commas in a csv file is ambiguous; without additional information we cannot
-determine the meaning for the comma.
+A comma is used as a field delimiter, and a newline is used as a record delimiter. As a comma is a valid character within a field, we need to quote or escape the comma when it is used as data rather than metadata. In this respect, a commas in a csv file is ambiguous; without additional information we cannot determine the meaning for the comma.
 
 If each field is base64 encoded, the same file looks like this:
 
@@ -34,13 +30,7 @@ If each field is base64 encoded, the same file looks like this:
 	ZGVmY29u,anVseQ==,bGFzIHZlZ2Fz
 	dG9vcmNvbg==,b2N0b2Jlcg==,c2FuIGRpZWdv
 
-Because the comma and newline do not appear in base64 encoded data, the
-encapsulation of inner data elements is unambiguous. Outer data consist only of
-commas and newlines. Inner data are represented only by characters that appear
-in base64 encoding. This encapsulation avoids the problems associated with
-escaping and quotation. Any commas or newlines present within a field are
-unambiguously differentiated from outer commas and newlines because they are
-base64 encoded.
+Because the comma and newline do not appear in base64 encoded data, the encapsulation of inner data elements is unambiguous. Outer data consist only of commas and newlines. Inner data are represented only by characters that appear in base64 encoding. This encapsulation avoids the problems associated with escaping and quotation. Any commas or newlines present within a field are unambiguously differentiated from outer commas and newlines because they are base64 encoded.
 
 An unambiguous format similar to this is formally defined in the delimited
 base64 file format specification[2]. We believe that, even with the addition of
