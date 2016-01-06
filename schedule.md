@@ -96,7 +96,7 @@
 7. [Syncing Mentorship Between Winners And Beginners](bring/03_syncing_mentorship_between_winners_and.md)
   - Tarah Wheeler Van Vlack
   - Liz Dahlstrom
-8. Technology Law Issues for Security Professionals
+8. [Technology Law Issues for Security Professionals](bring/04_technology_law_issues_for_security_professionals.md)
   - Shannon Brown
 9. Vehicle Forensics - The Data Beyond the Dashboard
   - Courtney Lancaster
