@@ -42,7 +42,7 @@ Below is the graphical result from BAT after being initialized on two samples fr
 
 Now let’s compare these results with those from PEBrowse.  The largest yellow stripe (the block roughly in the middle) starts at offset 2541 or hex 0x09ED in both samples, so let’s look at that location in PEBrowse:
 
-![][png3]
+![](imgs/acrsa_3.png)
 
 As shown, samples aa4f1 and cc3a9 in PEBrowse have almost identical values starting at the highlighted offset.  Line 0x9F0 and 0xA00 contain two single differences, an “&” and a “P” respectively.  
 
