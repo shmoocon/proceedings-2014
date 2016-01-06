@@ -25,4 +25,5 @@
    * Arms Race: The Story of (In)-Secure Bootloaders
    * How to Train your Snapdragon: Exploring Power Frameworks on Android
    * Syncing Mentorship Between Winners And Beginners
+   * Technology Law Issues for Security Professionals
 
