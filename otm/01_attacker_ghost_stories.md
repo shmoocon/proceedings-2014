@@ -57,6 +57,7 @@ Other mitigations to be covered are:
 * Password Auditing
 * Evil Canaries
 
+#### Metadata
 
 Tags: defense, java, 0day, emet, proxy, honeypots, canaries, dns, antivirus, hips, ids, ips, passwords, auditing, phishing, hacker economics, bug bounty, incentive programs
 
