@@ -20,7 +20,8 @@ Instant messaging is not only popular at home and on-the-go, but workplace use i
 We'll look inside the security of several clients, like [BBM](http://global.blackberry.com/bbm.html "BBM Homepage") or [Line](http://line.me/en/ "Line Homepage"), but we'll put our focus on [Snapchat](http://www.snapchat.com/ "Snapchat Homepage") and [WhatsApp](http://www.whatsapp.com "WhatsApp Homepage").
 
 
-## SNAPCHAT ##
+## SNAPCHAT
+
 [Snapchat](http://www.snapchat.com/ "Snapchat Homepage") is a photo messaging application that let can take photos, record videos, add text and drawings, and send them to a controlled list of recipients. These sent photographs and videos are known as Snaps. Users set a time limit for how long recipients can view their Snaps after which they will be hidden from the recipient's device and deleted from Snapchat's servers.
 
 Thanks to a gap in the service's security, the phone numbers and usernames for as many as 4.6 million accounts have been downloaded by a Web site calling itself [SnapchatDB.info](http://SnapchatDB.info "Snpachat Database Dump").
