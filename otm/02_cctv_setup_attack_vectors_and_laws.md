@@ -61,8 +61,8 @@ The first thing he taught us was the idea of “reasonable expectation of privac
 
 Further examination of laws reveals that if you have a CCTV system, it can be evidence for either party. An example of this was Aaron Hernandez, the football player, who after allegedly killing a friend of his at his residence, he had his CCTV system destroyed and house scrubbed clean. On top of the murder charges, he now also faces a destruction of evidence charge. 
 
-Sources
----------
+### Sources
+
 
 * Copper Wire ($11.19) http://www.amazon.com/dp/B003HGHQ56 
 * ON/OFF Switches ($5.34) http://www.amazon.com/dp/B008MU4H1I/
