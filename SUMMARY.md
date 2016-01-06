@@ -19,5 +19,6 @@
    * [A Critical Review of Spatial Analysis](belay/01_a_critical_review_of_spatial_analysis.md)
    * [“How I Met Your Mother” or The Brief and Secret History of Bletchley Park and How They Invented Cryptography and the Computer Age](belay/02_how_i_met_your_mother_or_the_brief_and_secret.md)
    * [Raising Costs for Your Attackers Instead of Your CFO](belay/03_raising_costs_for_your_attackers_instead_of.md)
+   * The “Science of Cyber” and the Next Generation of Security Tools
 * [BRING IT ON](bring/bring_it_on.md)
 
