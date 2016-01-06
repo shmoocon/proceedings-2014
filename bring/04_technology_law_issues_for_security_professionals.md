@@ -15,7 +15,11 @@ Thus basic awareness of what “the law” means, examples of how some laws migh
 
 ## What Is “the Law?”
 
-Sources of “the law” include treaties, constitutions, statutes, regulations, rules, ordinances, and court opinions. ![\[Illustration: U.S. Sources of Law\]](US_Sources_of_Law_Rev.png "U.S. Sources of Law") Furthermore, these sources might be international, federal, state, or local. Some come from the judiciary; others from regulatory or administrative agencies (think IRS or FAA); others from legislators; and others from local governments. In addition, the common-law serves as a sometimes murky back-drop to the written law. Thus, “the law” exists at multiple levels and derives from multiple sources.
+Sources of “the law” include treaties, constitutions, statutes, regulations, rules, ordinances, and court opinions. 
+
+![\[Illustration: U.S. Sources of Law\]](imgs/US_Sources_of_Law_Rev.png "U.S. Sources of Law")
+
+Furthermore, these sources might be international, federal, state, or local. Some come from the judiciary; others from regulatory or administrative agencies (think IRS or FAA); others from legislators; and others from local governments. In addition, the common-law serves as a sometimes murky back-drop to the written law. Thus, “the law” exists at multiple levels and derives from multiple sources.
  
 Generally, laws are criminal or civil. The government prosecutes criminal law violations and, imposes fines, prison, or some other penalty if found guilty. Private persons file civil lawsuits. A civil lawsuit results in a verdict (or settlement) with “damages” or an injunction awarded to a prevailing party. 
 
