@@ -16,5 +16,6 @@
    * [AV-Evasion With the Veil Framework](build/03_av-evasion_with_the_veil_framework.md)
    * [Malicious Threats, Vulnerabilities and Defenses in WhatsApp and Mobile Instant Messaging Platforms](build/04_malicious_threats_vulnerabilities_and_defenses_in.md)
 * [BELAY IT](belay/belay_it.md)
+   * A Critical Review of Spatial Analysis
 * [BRING IT ON](bring/bring_it_on.md)
 
