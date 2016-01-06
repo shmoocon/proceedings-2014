@@ -8,5 +8,5 @@
    * [Schedule](schedule.md)
 * [A Critical Review of Spatial Analysis](talks/01_a_critical_review_of_spatial_analysis.md)
    * [Abstract](talks/01_abstract.md)
-* [ONE TRACK MIND](one_track_mind.md)
+* [ONE TRACK MIND](otm/one_track_mind.md)
 
