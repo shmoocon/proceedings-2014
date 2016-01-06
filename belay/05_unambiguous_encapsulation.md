@@ -8,10 +8,9 @@ Inspired by LANGSEC and Packet in Packet, we have been investigating methods of 
 We have begun to identify new ways to encapsulate data using encodings that unambiguously differentiate inner (encapsulated) data from outer data. We present an introduction to unambiguous encapsulation and share our initial findings.
 
 
-Introduction
-------------
-Existing methods of channel coding encapsulate data ambiguously. For example, a
-packet's payload in a wireless communication protocol is encoded and modulated
+## Introduction
+
+Existing methods of channel coding encapsulate data ambiguously. For example, a packet's payload in a wireless communication protocol is encoded and modulated
 in the same manner as the packet's header. This ambiguity enables a class of
 attacks exemplified by Packet in Packet[1]. Similarly, data at rest are
 typically encapsulated in a manner that can be confused with surrounding data or
