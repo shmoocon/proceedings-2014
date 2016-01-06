@@ -24,4 +24,5 @@
 * [BRING IT ON](bring/bring_it_on.md)
    * Arms Race: The Story of (In)-Secure Bootloaders
    * How to Train your Snapdragon: Exploring Power Frameworks on Android
+   * Syncing Mentorship Between Winners And Beginners
 
