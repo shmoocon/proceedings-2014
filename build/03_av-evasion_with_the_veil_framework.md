@@ -49,3 +49,18 @@ Our barebones python injector uploads a zipped 'barebones' Python environment an
 With enough time and effort, signature-based defenses are always going to be subverted. However, a lot of malware (and Veil payload) behaviors are fairly predictable. These include an immediate reverse connection made to an attacker, a memory page is allocated with RWX permissions, functions are used to copy code in, and a thread is created. In addition, a small set of APIs are usually used in a very specific and non-standard way to invoke this behavior, which gives a great behavioral detection opportunity.
 
 Security tools that monitor for, or attempt to prevent, these types of predictable behavior are generally  going to be better than signature-based detection. One example of API call mitigation is Ambush IPS, which is an open source intrusion detection/prevention system that allows for flexible rules to be written for API calls. Another good prevention tool is the Microsoft [Enhanced Mitigation Experience Toolki](http://support.microsoft.com/kb/2458544), which is a free utility that enforces various protection mechanisms on commonly exploited binaries such as Adobe, Java, Internet Explorer, and others. Its protections do a great job in breaking various techniques for shellcode injection, but unfortunately you can’t use it to enroll all binaries on a system.
+
+#### Metadata
+
+Tags: AV-evasion, Veil, avlol  
+
+Primary Author Name: Will Schroeder  
+Primary Author Affiliation: Veris Group  
+Primary Author Email: harmj0y@veil-evasion.com  
+Primary Author Bio: The Veil development team is comprised of Will Schroeder (@harmj0y), Chris Truncer (@christruncer), and Mike Wright (@TheMightyShiv), a group of pentesters based in the D.C. region and primarily employed by the Veris group. They spend their days doing assessments and their nights researching and building new tools such as Veil.  
+Additional Author Name: Chris Truncer   
+Additional Author Affiliation: Veris Group  
+Additional Author Email: chris@veil-evasion.com  
+Additional Author Name: Mike Wright  
+Additional Author Affiliation: Veris Group  
+Additional Author Email: shiv@veil-evasion.com  
