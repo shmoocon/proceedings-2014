@@ -34,7 +34,7 @@ USBProxy is an open source C++ framework that makes it easy to monitor, inject a
 
 We chose to use gadgetfs[^8] to connect to host systems rather than developing our own kernel module because we can be sure that it will be maintained in line with kernel development. We understand that the convenience that gadgetfs provides is a trade off against performance, but we believe that it is a worthwhile trade to make for most uses.
 
-The USBProxy code consists of two parts, a relayer and a set of plugins. The relayer is used to pass packets from a host, through user defined filters, to the target device. The relay makes up the core library part of the USBProxy code.
+The USBProxy code consists of two parts, a relayer and a set of plugins. The relayer is used to pass packets from a host, through user defined filters, to the target device. The relayer makes up the core library part of the USBProxy code.
 
 ![USBProxy Architecture](USBProxy_arch.png "USBProxy Architecture")
 
