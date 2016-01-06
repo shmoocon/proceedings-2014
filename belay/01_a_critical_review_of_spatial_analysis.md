@@ -95,7 +95,7 @@ Our experiments show that the idea of spatial analysis is a sound one.  Spatial 
 * [^1] H. M. Jaenisch, J. Handley, and D. Williams, "Digital microArray analysis for digital artifact genomics," Proceedings of the SPIE, vol. 8757, 2013.
 * [^2] H. M. Jaenisch. (2010). Digital virus recognition - http://spie.org/x40459.xml?ArticleID=x40459
 * [^Mandiant] MANDIANT. (2010). M-trends: The Advanced Persistent Threat - http://www.princeton.edu/~yctwo/files/readings/M-Trends.pdf
-[^PEBrowse]: [SmidgeonSoft. \(2013\). Windows Programming Utilities.](http://www.smidgeonsoft.prohosting.com/)
+* [^PEBrowse] SmidgeonSoft. (2013). Windows Programming Utilities - http://www.smidgeonsoft.prohosting.com/
 
 [png1]: 1.png ""
 [png2]: 2.png ""
