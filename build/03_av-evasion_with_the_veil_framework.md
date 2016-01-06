@@ -58,9 +58,11 @@ Tags: AV-evasion, Veil, avlol
 **Primary Author Affiliation**: Veris Group  
 **Primary Author Email**: harmj0y@veil-evasion.com  
 **Primary Author Bio**: The Veil development team is comprised of Will Schroeder (@harmj0y), Chris Truncer (@christruncer), and Mike Wright (@TheMightyShiv), a group of pentesters based in the D.C. region and primarily employed by the Veris group. They spend their days doing assessments and their nights researching and building new tools such as Veil.  
+
 **Additional Author Name**: Chris Truncer   
 **Additional Author Affiliation**: Veris Group  
 **Additional Author Email**: chris@veil-evasion.com  
+
 **Additional Author Name**: Mike Wright  
 **Additional Author Affiliation**: Veris Group  
 **Additional Author Email**: shiv@veil-evasion.com  
