@@ -67,7 +67,7 @@ The Digital Millennium Copyright Act, [17 USC §§1201–1205](http://www.law.co
 
 While the anti-circumvention provisions have been largely dormant, the DMCA still poses issues for unsuspecting researchers working with copyrighted materials. 
 
-##Sample State Laws##
+## Sample State Laws 
 
 States individually enact laws. Most states adopt computer crimes codes with hefty penalties just like the federal laws. State laws might even sound very similar to federal laws. But each state is free to distinctly interpret the similar language. 
 
