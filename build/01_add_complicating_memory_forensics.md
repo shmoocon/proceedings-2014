@@ -43,6 +43,7 @@ Tags: Memory Forensics, Malware, APT, Anti-Forensics
 **Primary Author Name**: Jacob Williams  
 **Primary Author Affiliation**: CSRgroup Computer Security  
 **Primary Author Email**: malwarejake@gmail.com  
+
 **Additional Author Name**: Alissa Torres  
 **Additional Author Affiliation**: Sibertor Forensics  
 **Additional Author Email**: alissa.torres@gmail.com
