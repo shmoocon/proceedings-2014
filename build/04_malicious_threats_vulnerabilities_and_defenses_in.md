@@ -1,6 +1,8 @@
 # Malicious Threats, Vulnerabilities and Defenses in WhatsApp and Mobile Instant Messaging Platforms
 
-Abstract: Global surveillance emerged as a phenomenon since the late 1940s and Internet and mobile technology are being developed with such pace that it is impossible to guarantee electronic privacy and nobody should expect it. How strong are the actual Instant Messaging Platforms? Do they take care of our security and privacy? We'll look inside the security of several clients (like BBM or Line) and will put our focus on Snapchat and WhatsApp.
+## Abstract
+
+Global surveillance emerged as a phenomenon since the late 1940s and Internet and mobile technology are being developed with such pace that it is impossible to guarantee electronic privacy and nobody should expect it. How strong are the actual Instant Messaging Platforms? Do they take care of our security and privacy? We'll look inside the security of several clients (like BBM or Line) and will put our focus on Snapchat and WhatsApp.
 
 We'll disclosure some vulnerabilities that can affect users and Snapchat service, increasing scores,  impersonating other accounts or launching Dos attacks.  
 
