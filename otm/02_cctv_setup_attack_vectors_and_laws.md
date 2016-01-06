@@ -63,7 +63,6 @@ Further examination of laws reveals that if you have a CCTV system, it can be ev
 
 ### Sources
 
-
 * Copper Wire ($11.19) http://www.amazon.com/dp/B003HGHQ56 
 * ON/OFF Switches ($5.34) http://www.amazon.com/dp/B008MU4H1I/
 * 9-V Batteries ($17.50) http://www.amazon.com/dp/B00009V2QZ/
@@ -79,6 +78,7 @@ Further examination of laws reveals that if you have a CCTV system, it can be ev
 * Aaron Hernandez http://boston.cbslocal.com/2013/09/27/aaron-hernandezs-girlfriend-shayanna-jenkins-indicted-on-perjury-charge/
 * Hacknmod https://hacknmod.com/hack/blind-cameras-with-an-infrared-led-hat/
 
+#### Metadata
 Tags: CCTV, Security, Stealth, DVR, Physical Security, Law
 
 **Primary Author Name**: Joshua Schroeder  
