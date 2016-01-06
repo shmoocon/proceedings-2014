@@ -72,15 +72,9 @@ Sources
 * ON/OFF Switches ($5.34) http://www.amazon.com/dp/B008MU4H1I/
 * 9-V Batteries ($17.50) http://www.amazon.com/dp/B00009V2QZ/
 * 9-V Battery Connectors ($5.48) http://www.amazon.com/dp/B00AUB8OHU
-
-Infrared LEDs ($7.87)
-http://www.amazon.com/dp/B008QUUEYS
-
-Black Hoodie ($11.57)
-http://www.walmart.com/ip/22471487
-
-Black Felt ($4.95/yrd)
-http://www.walmart.com/ip/Creative-Cuts-Anti-Pill-Fleece-by-the-Yard/19235879
+* Infrared LEDs ($7.87) http://www.amazon.com/dp/B008QUUEYS
+* Black Hoodie ($11.57) http://www.walmart.com/ip/22471487
+* Black Felt ($4.95/yrd) http://www.walmart.com/ip/Creative-Cuts-Anti-Pill-Fleece-by-the-Yard/19235879
 
 Glue ($3.47)
 http://www.walmart.com/ip/E6000-Jewelry-and-Bead-Glue-1-oz/32247489
