@@ -98,4 +98,5 @@ Tags: USB, man-in-the-middle, open source
 **Primary Author Name**: Dominic Spill  
 **Primary Author Affiliation**: Great Scott Gadgets  
 **Primary Author Email**: dominicgs@gmail.com  
+
 **Additional Author Name**: Adam Stasiak
