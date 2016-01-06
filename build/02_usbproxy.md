@@ -13,8 +13,7 @@ USB is the most ubiquitous interface for consumer technologies, with 2 billion d
 
 There are many tools available for USB investigation, but most of them have limitations that prevent a full audit of USB systems. In the spirit of Wright's Law[^1]
 
->Security will not get better until tools for practical exploration of the
->attack surface are made available
+>Security will not get better until tools for practical exploration of the attack surface are made available
 
 We present USBProxy[2], a USB man in the middle tool designed for the BeagleBone
 Black or any hardware capable of running Linux and supporting USB device mode.
@@ -138,17 +137,17 @@ a very useful reference for dealing with gadgetfs.
 
 ## References
 
-[^1] Wright's Law, Joshua Wright, http://code.google.com/p/zigbee-security
-[2] USBProxy, https://github.com/dominicgs/USBProxy
-[3] USBSniffer, Nicholas Boichat, http://www.elinux.org/BeagleBoard/GSoC/2010_Projects/USBSniffer
-[4] FaceDancer, Travis Goodspeed, Sergey Bratus, http://goodfet.sourceforge.net/hardware/facedancer21
-[5] RaspDancer, Philippe Teuwen, http://wiki.yobi.be/wiki/Raspdancer
-[6] BeagleDancer, Dominic Spill, https://github.com/dominicgs/BeagleDancer
-[7] BeagleBone Black, http://beagleboard.org/products/beaglebone%20black
-[8] GadgetFS, http://www.linux-usb.org/gadget
-[9] ExtCap, Mike Kershaw, Mike Ryan, Sharkfest, 2013, http://sharkfest.wireshark.org/sharkfest.13/presentations/NAP-11_Expanding-Wireshark-Beyond-Ethernet-and-Network-Interfaces_Kershaw-Ryan.pdf
-[10] umap - the USB host security assessment tool, David, NCC Group, https://github.com/nccgroup/umap
-[11] Daisho, https://github.com/mossmann/daisho
+* [^1] Wright's Law, Joshua Wright, http://code.google.com/p/zigbee-security
+* [^2] USBProxy, https://github.com/dominicgs/USBProxy
+* [^3] USBSniffer, Nicholas Boichat, http://www.elinux.org/BeagleBoard/GSoC/2010_Projects/USBSniffer
+* [^4] FaceDancer, Travis Goodspeed, Sergey Bratus, http://goodfet.sourceforge.net/hardware/facedancer21
+* [^5] RaspDancer, Philippe Teuwen, http://wiki.yobi.be/wiki/Raspdancer
+* [^6] BeagleDancer, Dominic Spill, https://github.com/dominicgs/BeagleDancer
+* [^7] BeagleBone Black, http://beagleboard.org/products/beaglebone%20black
+* [^8] GadgetFS, http://www.linux-usb.org/gadget
+* [^9] ExtCap, Mike Kershaw, Mike Ryan, Sharkfest, 2013, http://sharkfest.wireshark.org/sharkfest.13/presentations/NAP-11_Expanding-Wireshark-Beyond-Ethernet-and-Network-Interfaces_Kershaw-Ryan.pdf
+* [^10] umap - the USB host security assessment tool, David, NCC Group, https://github.com/nccgroup/umap
+* [^11] Daisho, https://github.com/mossmann/daisho
 
 
 #### Metadata
