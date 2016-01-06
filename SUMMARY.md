@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
    * [Foreword](foreword.md)
-   * [The Shmoo Group](the_shmoo_group.md)
    * [ShmooCon](shmoocon.md)
    * [Editor's Note](editors_note.md)
    * [Schedule](schedule.md)
