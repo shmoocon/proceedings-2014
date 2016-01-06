@@ -71,8 +71,7 @@ In the future we hope to identify additional classes of error correcting codes t
 
 Conclusion
 ----------
-Unambiguous encapsulation is a useful design pattern that can be applied in any
-case where data are encapsulated.
+Unambiguous encapsulation is a useful design pattern that can be applied in any case where data are encapsulated.
 
 We hope that the codes produced by this project will be useful in practical
 applications and that we have been able to promote discussion around the
