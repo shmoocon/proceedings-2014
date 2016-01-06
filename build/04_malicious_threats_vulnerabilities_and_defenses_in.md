@@ -11,7 +11,8 @@ WhatsApp might not be as widely known as Twitter, but the company announced that
 We'll also release a new version of our tool with different protection layers: encryption, anonymity, and using a custom XMPP server. It's necessary to implement additional measures until WhatsApp decides to take security seriously.  
 
 
-## INSTANT MESSAGING: HOW SECURE IS IT? ##
+## INSTANT MESSAGING: HOW SECURE IS IT?
+
 The proliferation of cell phones with full keyboards has made it easier to send mobile instant messages. All of the major instant messaging services also let users have their instant messages forwarded directly to their cell phones when they’re on-the-go. In addition, IM users are instant messaging from within their social networking profiles.
 
 Instant messaging is not only popular at home and on-the-go, but workplace use is becoming commonplace. More than one in four users say they use instant messaging at work. Further, half of at-work IM users say that instant messaging makes them more productive at work.
