@@ -93,7 +93,7 @@
   - Matthew Jablonski
 6. The NSA: Capabilities and Countermeasures
   - Bruce Schneier
-7. Syncing Mentorship Between Winners And Beginners
+7. [Syncing Mentorship Between Winners And Beginners](bring/03_syncing_mentorship_between_winners_and.md)
   - Tarah Wheeler Van Vlack
   - Liz Dahlstrom
 8. Technology Law Issues for Security Professionals
