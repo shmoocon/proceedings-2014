@@ -1,6 +1,5 @@
 # CCTV - Setup, Attack Vectors and Laws
 
-Title: CCTV - Setup, Attack Vectors and Laws
 Primary Author Name: Joshua Schroeder
 Primary Author Affiliation: Consultant
 Primary Author Email: JoshInGeneral@gmail.com
