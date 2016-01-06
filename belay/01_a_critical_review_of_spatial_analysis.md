@@ -106,6 +106,7 @@ Tags: Visual Malware Analysis, Spatial Analysis, Byte Sequences, Statistical Fea
 **Primary Author Name**: David Giametta  
 **Primary Author Affiliation**: Sentar, Inc.  
 **Primary Author Email**: davidgiametta@gmail.com  
+
 **Additional Author Name**: Andrew Potter  
 **Additional Author Affiliation**: Sentar, Inc.  
 **Additional Author Email**: andrew.potter@sentar.com  
