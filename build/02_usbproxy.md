@@ -26,10 +26,7 @@ USBProxy is certainly not the first USB man in the middle or device spoofing too
 
 In 2012 Travis Goodspeend designed FaceDancer[^4] which combines a Maxim Integrated MAX3421E USB peripheral IC with a GoodFET device to allow USB devices prototyped in Python to be connected to a host. FaceDancer has been popular among the information security industry, but it has some limitations which we would like to avoid, such as a maximum of two endpoints and a 1Mbps data rate, although this was improved by RaspDancer[^5] and BeagleDancer[^6].
 
-USBProxy is built on top of an existing kernel module which provides us with
-stability and the opportunity to be agnostic about the underlying hardware. We
-have no limitations on number of endpoints or speed other than those imposed by
-the processor or USB interface.
+USBProxy is built on top of an existing kernel module which provides us with stability and the opportunity to be agnostic about the underlying hardware. We have no limitations on number of endpoints or speed other than those imposed by the processor or USB interface.
 
 
 USBProxy
