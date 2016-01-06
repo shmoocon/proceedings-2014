@@ -99,8 +99,8 @@ Results: 76 hits over 5 months, with ~60% false positive rate. Some false positi
 
 [^1] https://isc.sans.edu/forums/diary/A+Poor+Man+s+DNS+Anomaly+Detection+Script/13918
 
-## More Data, Less Hype
-Primary Author Name: Aaron Gee-Clough
-Primary Author Email: aaron@g-clef.net
-Primary Author Bio: Aaron Gee-Clough bailed out on grad school for the .com boom and has been doing security for about 14 years. He also thinks bios are kinda dumb, since you all don't really care anyway. (But, if you insist, several years ago he hacked the ShmooCon Arcade's point display system. He never did get around to using the video card he "won" from that.)
-Keywords: Analytics,DNS,Webmail
+Tags: Analytics, DNS, Webmail
+
+**Primary Author Name**: Aaron Gee-Clough  
+**Primary Author Email**: aaron@g-clef.net  
+**Primary Author Bio**: Aaron Gee-Clough bailed out on grad school for the .com boom and has been doing security for about 14 years. He also thinks bios are kinda dumb, since you all don't really care anyway. (But, if you insist, several years ago he hacked the ShmooCon Arcade's point display system. He never did get around to using the video card he "won" from that.)
