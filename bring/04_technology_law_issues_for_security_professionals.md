@@ -32,15 +32,20 @@ Precedent deserves additional description. In a nutshell, not all courts are the
 * geographic location?, and
 * laws at issue? 
 
-For example, an opinion by a California, state, appellate court does not necessarily apply to persons in Pennsylvania. An opinion by a federal, appellate court in Chicago (7th Circuit), might not apply to persons in Vermont (2nd Circuit). ![\[Illustration: Simplified U.S. Federal Court Structure\]](Simplified_Federal_Court_Structure.png "Simplified U.S. Federal Court Structure") An opinion by a state, trial court might not bind others even in the same state. 
+For example, an opinion by a California, state, appellate court does not necessarily apply to persons in Pennsylvania. An opinion by a federal, appellate court in Chicago (7th Circuit), might not apply to persons in Vermont (2nd Circuit).
+
+![\[Illustration: Simplified U.S. Federal Court Structure\]](imgs/Simplified_Federal_Court_Structure.png "Simplified U.S. Federal Court Structure")
+
+An opinion by a state, trial court might not bind others even in the same state. 
 
 Thus, “the law” is complex. Not only must the sources of law be identified, but how, and if, those sources apply must be evaluated.
 
-##Sample Federal Laws##
+##Sample Federal Laws 
 
 Starting in the 1980s, federal legislators began addressing “computer crimes.” Many of these laws include significant civil and criminal penalties. Furthermore, recent, novel applications of these laws pose potential pitfalls.
 
-###CFAA###
+### CFAA
+
 The Computer Fraud and Abuse Act, [18 U.S.C. §1030](http://www.law.cornell.edu/uscode/text/18/1030 "Computer Fraud and Abuse Act"), is the primary, federal, computer crimes and “anti-hacking” law. Foremost, the law imposes significant criminal and civil penalties for accessing computers “without authorization” or by “exceeding authorized access.”
 
 Several recent cases illustrate the criminal application of the CFAA. Two persons in Las Vegas were prosecuted for exploiting a firmware bug in video poker machines. [Kevin Poulsen, *Use a Software Bug to Win Video Poker? That’s a Federal Hacking Case*, Wired (May 05, 2013)](http://www.wired.com/threatlevel/2013/05/game-king/ "Use a Software Bug to Win Video Poker? That’s a Federal Hacking Case"). An Anonymous sympathizer in Wisconsin was recently prosecuted for a one-minute, DDoS operation--resulting in two years federal probation and restitution. [Zeljka Zorz, *Wisconsin Man Sentenced for DDoS Attack Against Koch Industries*, Help Net Security (Dec. 03, 2013)](https://www.net-security.org/secworld.php?id=16039 " Wisconsin Man Sentenced for DDoS Attack Against Koch Industries"). Most people are already very familiar with the tragic Aaron Swartz case--prosecution for unauthorized access to JSTOR.
@@ -51,12 +56,13 @@ Employers also use the CFAA to take action against employees who take customer l
 Originating in 1984, the CFAA broadly punishes unauthorized access to virtually any connected computer. Due to the broad language, significant civil and criminal penalties, and novel new applications of the law, the CFAA remains a formidable force and source of liability for researchers.
 
 
-###ECPA/SCA###
+###ECPA/SCA 
+
 The Electronic Communications Privacy Act, [18 U.S.C. §§2511-2520](http://www.law.cornell.edu/uscode/text/18/part-I/chapter-119 "Electronic Communications Privacy Act"), and Stored Communications Act [18 U.S.C. §§2701-2712(http://www.law.cornell.edu/uscode/text/18/part-I/chapter-121 "Stored Communications Act") protect electronic communications from interception or access (if stored).
 
 For security researchers, novel applications of the ECPA/SCA may result in criminal charges or civil lawsuits, [18 USC §2520](http://www.law.cornell.edu/uscode/text/18/2520 "18 USC §2520"), due to the law's broad language. For example, a recent suit allegedly involving webcam spying on students raised ECPA/SCA issues. [Gregg Keizer, *Pennsylvania Schools Spying on Students Using Laptop Webcams, Claims Lawsuit*, ComputerWorld (Feb. 18, 2010)](https://www.computerworld.com/s/article/9158818/Pennsylvania_schools_spying_on_students_using_laptop_webcams_claims_lawsuit "Pennsylvania Schools Spying on Students Using Laptop Webcams, Claims Lawsuit").  Likewise, intercepting or accessing video, VoIP calls, voicemail, or email could trigger ECPA/SCA penalties. 
 
-###DMCA###
+###DMCA 
 The Digital Millennium Copyright Act, [17 USC §§1201–1205](http://www.law.cornell.edu/uscode/text/17/chapter-12 "Digital Millennium Copyright Act"), prohibits circumvention of copyright protection technologies--unless an exception applies--and making circumvention somehow available. Those *limited* exceptions include reverse engineering *for interoperability*, cryptography  research, and security research, [§1201(j)](http://www.law.cornell.edu/uscode/text/17/1201 "§1201(j)"). However, the DMCA conditions the exceptions on compliance with the CFAA. [For example, 17 USC §§1201(j)(2)](http://www.law.cornell.edu/uscode/text/17/1201 "§1201(j)(2)") Thus, the exceptions might be narrower than they first seem.
 
 While the anti-circumvention provisions have been largely dormant, the DMCA still poses issues for unsuspecting researchers working with copyrighted materials. 
