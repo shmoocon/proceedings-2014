@@ -23,12 +23,13 @@ Assumptions:
 
 Results: if you graph the number of new domains looked up per hour, you get:
 
- ￼
+![](imgs/domainLookups.png)
+
 This follows the expected pattern: a big initial spike that falls off to a steady state. However, steady state is 2,500 new domains per *hour*. That's far too high to allow you to investigate all of them. (note: the spike in the middle is also a false positive.) This false positive rate is at least 99%.
 
 Does this work if you look at second level domains (google.com), rather than hostnames (mail.google.com)? That looks like:
 
-￼
+![](imgs/sldLookups.png)
 
 The final baseline in this case is still over 1,000 new domains per hour, which is still too high. This false positive rate is still 99%. In both cases, malicious domains were detected and flagged, but they were buried in noise. 
 
