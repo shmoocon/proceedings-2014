@@ -46,7 +46,8 @@
   - Benjamin Gatti
 4. Introducing DARPA’s Cyber Grand Challenge
   - Mike Walker
-5.	Operationalizing Threat Information Sharing: Beyond Policies and Platitudes - Sean Barnum and Aharon Chernin
+5.	Operationalizing Threat Information Sharing: Beyond Policies and Platitudes
+  - Sean Barnum and Aharon Chernin
 6.	Practical Applications of Data Science in Detection - Mike Sconzo and Brian Wylie
 7.	Raising Costs for your Attackers Instead of your CFO - Aaron Beuhring and Kyle Salous
 8.	The “Science of Cyber” and the Next Generation of Security Tools - Paulo Shakarian
