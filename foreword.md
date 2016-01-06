@@ -11,6 +11,3 @@ We’d like to thank everyone who made this work possible. First and foremost, w
 Thanks and enjoy!
 
 Heidi Potter
-
-[^2]
-[^2] Comment to include in footnote.
