@@ -44,10 +44,7 @@ An example of a similar solution is Dan Kaminsky's Interpolique[^3]. However, th
 
 While our delimited base64 file format is a helpful introduction to the concept of unambiguous encapsulation, our main area of interest is applying the techniques of unambiguous encapsulation to error correcting codes used for transmitting and storing data.
 
-When data are stored or transmitted using a noisy or lossy medium, they are
-typically encoded with an error control code providing some degree of error
-detection or correction. These codes use codewords of several bits to represent
-a smaller number of data bits. The additional bits of transmitted information
+When data are stored or transmitted using a noisy or lossy medium, they are typically encoded with an error control code providing some degree of error detection or correction. These codes use codewords of several bits to represent a smaller number of data bits. The additional bits of transmitted information
 may be used by the receiver of the data to detect or correct bit errors
 introduced by the medium.
 
