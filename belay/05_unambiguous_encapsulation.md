@@ -61,12 +61,7 @@ We were then able to analyze pairs of codes, such as the following:
 	00000, 00011, 00101, 01001
 	01110, 10110, 11010, 11100
 
-Each of these is a (5,2,2) linear block code in the traditional notation of
-coding theory. This pair is complementary in that there is no codeword present
-in both codes, and the pair is also isolated by a minimum Hamming distance of
-three from the one code to the other. We call such a pair of codes an Isolated
-Complementary Binary Linear Block Code (ICBLBC). One of the pair could be used
-to encode inner (encapsulated) data and the other to encode outer data.
+Each of these is a (5,2,2) linear block code in the traditional notation of coding theory. This pair is complementary in that there is no codeword present in both codes, and the pair is also isolated by a minimum Hamming distance of three from the one code to the other. We call such a pair of codes an Isolated Complementary Binary Linear Block Code (ICBLBC). One of the pair could be used to encode inner (encapsulated) data and the other to encode outer data.
 
 A single bit error can be detected by the receiver of a message so
 encoded. For example, if 00001 is received, the receiver would find that the
