@@ -1,7 +1,7 @@
 # Schedule
 
 ONE TRACK MIND
-1. **Attacker Ghost Stories: Mostly Free Defenses That Give Attackers Nightmares - Rob Fuller**
+1. Attacker Ghost Stories: Mostly Free Defenses That Give Attackers Nightmares - Rob Fuller
 2. CCTV: Setup, Attack Vectors, and Laws - Joshua Schroeder and Spencer Brooks
 3. The Dissipation of Hackers in the Enterprise - Weasel
 	4.	The Evolution of Linux Kernel Module Signing - Rebecca “.bx” Shapiro
