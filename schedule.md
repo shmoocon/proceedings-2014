@@ -65,7 +65,7 @@
 7. [Raising Costs for your Attackers Instead of your CFO](belay/03_raising_costs_for_your_attackers_instead_of.md)
   - Aaron Beuhring
   - Kyle Salous
-8. The “Science of Cyber” and the Next Generation of Security Tools
+8. [The “Science of Cyber” and the Next Generation of Security Tools](belay/04_the_science_of_cyber_and_the_next_generation.md)
   - Paulo Shakarian
 9. Timing-Based Attestation: Sexy Defense, or the Sexiest
   - Xeno Kovah
