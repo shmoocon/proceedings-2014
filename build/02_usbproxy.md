@@ -28,16 +28,9 @@ In 2012 Travis Goodspeend designed FaceDancer[^4] which combines a Maxim Integra
 
 USBProxy is built on top of an existing kernel module which provides us with stability and the opportunity to be agnostic about the underlying hardware. We have no limitations on number of endpoints or speed other than those imposed by the processor or USB interface.
 
+## USBProxy
 
-USBProxy
---------
-
-USBProxy is an open source C++ framework that makes it easy to monitor, inject
-and modify USB packets in transit. To achieve this we use a BeagleBone Black[7]
-running Debian Linux to act as a proxy or man-in-the-middle device. We chose the
-BeagleBone Black because it is cheap, widely available, open source hardware and
-powerful enough for our uses, but USBProxy should work on any Linux system that
-supports USB device mode.
+USBProxy is an open source C++ framework that makes it easy to monitor, inject and modify USB packets in transit. To achieve this we use a BeagleBone Black[^7] running Debian Linux to act as a proxy or man-in-the-middle device. We chose the BeagleBone Black because it is cheap, widely available, open source hardware and powerful enough for our uses, but USBProxy should work on any Linux system that supports USB device mode.
 
 We chose to use gadgetfs[8] to connect to host systems rather than developing
 our own kernel module because we can be sure that it will be maintained in line
