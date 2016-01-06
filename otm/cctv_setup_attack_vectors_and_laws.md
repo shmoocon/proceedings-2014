@@ -77,16 +77,11 @@ Sources
 * Black Felt ($4.95/yrd) http://www.walmart.com/ip/Creative-Cuts-Anti-Pill-Fleece-by-the-Yard/19235879
 * Glue ($3.47) http://www.walmart.com/ip/E6000-Jewelry-and-Bead-Glue-1-oz/32247489
 * Velcro ($6.82) http://www.walmart.com/ip/Velcro-Fabric-Fusion-Tape/24626447
-
-AVTECH Camera
-http://www.avtech.com.tw/index.php?Itemid=311
-http://www.sevenseassecurity.com/p-569-cpcam-16-channel-mpeg-4-dvr.aspx
-
-Aaron Hernandez
-http://boston.cbslocal.com/2013/09/27/aaron-hernandezs-girlfriend-shayanna-jenkins-indicted-on-perjury-charge/
-
-Hacknmod
-https://hacknmod.com/hack/blind-cameras-with-an-infrared-led-hat/
+* AVTECH Camera
+  * http://www.avtech.com.tw/index.php?Itemid=311
+  * http://www.sevenseassecurity.com/p-569-cpcam-16-channel-mpeg-4-dvr.aspx
+* Aaron Hernandez http://boston.cbslocal.com/2013/09/27/aaron-hernandezs-girlfriend-shayanna-jenkins-indicted-on-perjury-charge/
+* Hacknmod https://hacknmod.com/hack/blind-cameras-with-an-infrared-led-hat/
 
 Tags: CCTV, Security, Stealth, DVR, Physical Security, Law
 
