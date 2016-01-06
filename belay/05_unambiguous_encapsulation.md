@@ -63,17 +63,7 @@ We were then able to analyze pairs of codes, such as the following:
 
 Each of these is a (5,2,2) linear block code in the traditional notation of coding theory. This pair is complementary in that there is no codeword present in both codes, and the pair is also isolated by a minimum Hamming distance of three from the one code to the other. We call such a pair of codes an Isolated Complementary Binary Linear Block Code (ICBLBC). One of the pair could be used to encode inner (encapsulated) data and the other to encode outer data.
 
-A single bit error can be detected by the receiver of a message so
-encoded. For example, if 00001 is received, the receiver would find that the
-received codeword is not valid (in either code). A pair of bit errors could
-result in an invalid codeword (e.g. a transmitted 00000 could be received as
-11000) but could also result in a valid codeword from the same code (e.g. a
-transmitted 00000 could be received as 00011). However, it is impossible for a
-pair of bit errors to result in a codeword that belongs to the other code. A
-minimum of three bit errors would be required for the receiver to interpret a
-codeword as belonging to the wrong code, thus breaking encapsulation. In many
-systems, the likelihood of three out of five bits being flipped is considerably
-less than the likelihood of one or two flipped bits.
+A single bit error can be detected by the receiver of a message so encoded. For example, if 00001 is received, the receiver would find that the received codeword is not valid (in either code). A pair of bit errors could result in an invalid codeword (e.g. a transmitted 00000 could be received as 11000) but could also result in a valid codeword from the same code (e.g. a transmitted 00000 could be received as 00011). However, it is impossible for a pair of bit errors to result in a codeword that belongs to the other code. A minimum of three bit errors would be required for the receiver to interpret a codeword as belonging to the wrong code, thus breaking encapsulation. In many systems, the likelihood of three out of five bits being flipped is considerably less than the likelihood of one or two flipped bits.
 
 We have built upon these initial successful findings, using a C implementation
 of a more efficient algorithm[4], to produce pairs of codes with 6 bit codewords
