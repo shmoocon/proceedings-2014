@@ -65,13 +65,7 @@ Each of these is a (5,2,2) linear block code in the traditional notation of codi
 
 A single bit error can be detected by the receiver of a message so encoded. For example, if 00001 is received, the receiver would find that the received codeword is not valid (in either code). A pair of bit errors could result in an invalid codeword (e.g. a transmitted 00000 could be received as 11000) but could also result in a valid codeword from the same code (e.g. a transmitted 00000 could be received as 00011). However, it is impossible for a pair of bit errors to result in a codeword that belongs to the other code. A minimum of three bit errors would be required for the receiver to interpret a codeword as belonging to the wrong code, thus breaking encapsulation. In many systems, the likelihood of three out of five bits being flipped is considerably less than the likelihood of one or two flipped bits.
 
-We have built upon these initial successful findings, using a C implementation
-of a more efficient algorithm[4], to produce pairs of codes with 6 bit codewords
-that have isolation properties. We are currently working on a Verilog
-implementation to exploit the parallel nature of FPGA devices to brute force the
-discovery of even longer codes. These codes will possess greater error
-correction and detection capabilities, and we also expect them to have more
-interesting isolation properties.
+We have built upon these initial successful findings, using a C implementation of a more efficient algorithm[4], to produce pairs of codes with 6 bit codewords that have isolation properties. We are currently working on a Verilog implementation to exploit the parallel nature of FPGA devices to brute force the discovery of even longer codes. These codes will possess greater error correction and detection capabilities, and we also expect them to have more interesting isolation properties.
 
 In the future we hope to identify additional classes of error correcting codes that provide encapsulation. For each class of codes, we will either prove by construction that they exist or by exhaustive search that they do not exist up to a certain codeword length.
 
