@@ -15,10 +15,14 @@
 6. Security Analytics: Less Hype, More Data
   - Aaron Gee-Clough
 
-BUILD IT
-	1.	ADD – Complicating Memory Forensics Through Memory Disarray - Jake Williams and Alissa Torres
-	2.	An Open and Affordable USB Man in the Middle Device - Dominic Spill
-	3.	AV Evasion with the Veil Framework - Christopher Truncer, TheGrayhound and Michael Wright
+## BUILD IT
+
+1. ADD – Complicating Memory Forensics Through Memory Disarray
+  - Jake Williams and Alissa Torres
+2. An Open and Affordable USB Man in the Middle Device
+  - Dominic Spill
+3. AV Evasion with the Veil Framework
+  - Christopher Truncer, TheGrayhound and Michael Wright
 	4.	Controlling USB Flash Drive Controllers: Expose of Hidden Features - Richard Harman
 	5.	Genuinely “Trusted Computing”: Free and Open Hardware Security Modules - Ryan Lackey
 	6.	Introducing idb - Simplified Blackbox iOS App Pentesting - Daniel A. Mayer
