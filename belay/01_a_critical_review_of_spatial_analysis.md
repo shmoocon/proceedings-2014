@@ -7,9 +7,9 @@ Spatial Analysis is a technique for graphing statistical features of binary arti
 
 # Explanation of the tool
 
-BAT (Byte Assessment Tool) is a malware analysis tool developed by the Sentar R&D team.  BAT is an implementation of Spatial Analysis [^1JaenischHandleyWilliams], [^Jaenisch].  BAT accepts digital artifacts of any type (exe, dll, png, etc…), in any quantity, and asks the user to initialize using two of the artifacts.  BAT converts these two files into two sets of byte windows, computes the running mean and sigma of the byte windows and compares them to each other, graphically displays matching windows in yellow or differing windows in red/green.  BAT displays each artifact horizontally, byte zero on the right and the last byte on the left, stacking them vertically.  From here BAT encodes the matching byte window mean and sigma into keys and can allow the user to export a detector that can search for these keys.  The detector reports artifacts containing the keys, and the user can examine each further.  The detector takes in running mode, step size, folder to run against and folder to store results.
+BAT (Byte Assessment Tool) is a malware analysis tool developed by the Sentar R&D team.  BAT is an implementation of Spatial Analysis [^1] [^2]. BAT accepts digital artifacts of any type (exe, dll, png, etc…), in any quantity, and asks the user to initialize using two of the artifacts.  BAT converts these two files into two sets of byte windows, computes the running mean and sigma of the byte windows and compares them to each other, graphically displays matching windows in yellow or differing windows in red/green.  BAT displays each artifact horizontally, byte zero on the right and the last byte on the left, stacking them vertically.  From here BAT encodes the matching byte window mean and sigma into keys and can allow the user to export a detector that can search for these keys.  The detector reports artifacts containing the keys, and the user can examine each further.  The detector takes in running mode, step size, folder to run against and folder to store results.
 
-![][png1]
+![][imgs/acrsa_1.png]
 
 # Experiment
 
