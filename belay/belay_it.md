@@ -6,30 +6,16 @@
 <p>&nbsp</p>
 # BELAY IT!
 
-1. A Critical Review of Spatial Analysis
+1. [A Critical Review of Spatial Analysis](belay/01_a_critical_review_of_spatial_analysis.md)
   - David Giametta
   - Andrew Potter
-2. Data Whales and Troll Tears: Beat the Odds in InfoSec
-  - Davi Ottenheimer
-  - Allison Miller
-3. “How I Met Your Mother” or The Brief and Secret History of Bletchley Park and How They Invented Cryptography and the Computer Age
+2. [“How I Met Your Mother” or The Brief and Secret History of Bletchley Park and How They Invented Cryptography and the Computer Age](belay/02_how_i_met_your_mother_or_the_brief_and_secret.md)
   - Benjamin Gatti
-4. Introducing DARPA’s Cyber Grand Challenge
-  - Mike Walker
-5. Operationalizing Threat Information Sharing: Beyond Policies and Platitudes
-  - Sean Barnum and Aharon Chernin
-6. Practical Applications of Data Science in Detection
-  - Mike Sconzo
-  - Brian Wylie
-7. Raising Costs for your Attackers Instead of your CFO
+3. [Raising Costs for your Attackers Instead of your CFO](belay/03_raising_costs_for_your_attackers_instead_of.md)
   - Aaron Beuhring
   - Kyle Salous
-8. The “Science of Cyber” and the Next Generation of Security Tools
+4. [The “Science of Cyber” and the Next Generation of Security Tools](belay/04_the_science_of_cyber_and_the_next_generation.md)
   - Paulo Shakarian
-9. Timing-Based Attestation: Sexy Defense, or the Sexiest
-  - Xeno Kovah
-  - Corey Kallenberg
-  - John Butterworth
-10.	Unambiguous Encapsulation - Separating Data and Signaling
+5.	[Unambiguous Encapsulation - Separating Data and Signaling](belay/05_unambiguous_encapsulation.md)
   - Dominic Spill
   - Michael Ossmann
