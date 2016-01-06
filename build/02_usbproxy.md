@@ -36,7 +36,7 @@ We chose to use gadgetfs[^8] to connect to host systems rather than developing o
 
 The USBProxy code consists of two parts, a relayer and a set of plugins. The relayer is used to pass packets from a host, through user defined filters, to the target device. The relayer makes up the core library part of the USBProxy code.
 
-![USBProxy Architecture](USBProxy_arch.png "USBProxy Architecture")
+![USBProxy Architecture](imgs/USBProxy_arch.png "USBProxy Architecture")
 
 There are four plugin categories: host proxies, device proxies, filters and
 injectors. The proxies are used to communicate with external hosts or devices
