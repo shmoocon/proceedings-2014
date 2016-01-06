@@ -44,9 +44,7 @@ Filters are used to read and modify packets in transit. Some filters log packets
 
 The final set of plugins allow packets to be injected in to the connection, such as keystrokes being added or inserting unexpected audio.
 
-
-Extending USBProxy
-------------------
+## Extending USBProxy
 
 From the beginning of the project we wanted to make it as easy as possible to
 extend the basic functionality that we have written. Any user should be able to
