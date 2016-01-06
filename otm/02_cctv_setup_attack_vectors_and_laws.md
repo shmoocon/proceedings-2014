@@ -38,7 +38,7 @@ One the main goals was to offsite backups in order to protect the footage in the
 
 First, the project used Dropbox to upload the files from a Windows VM running AVTECH’s Video Viewer (free registration required). This application logged into the AVTECH camera system, processed video for motion detection, outputted the video to AVC format and put it on to Dropbox. With normal use, Dropbox’s 2GB filled up in a week, and a switch was made to a Box.net 50GB account. 
 
-For streaming to mobile devices, it worked out that RTSP streams and a website could be built enhance functionality.  Quicktime encoded the streams and password protection was done via some form of .htaccess files and channels were selected via GET request in the form of: rtsp://192.168.1.100/video/empty.mov?ch=1
+For streaming to mobile devices, it worked out that RTSP streams and a website could be built enhance functionality.  Quicktime encoded the streams and password protection was done via some form of `.htaccess` files and channels were selected via GET request in the form of: `rtsp://192.168.1.100/video/empty.mov?ch=1`
 
 Attack Vectors
 -----------------
