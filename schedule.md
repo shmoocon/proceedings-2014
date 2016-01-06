@@ -83,7 +83,8 @@
 3.	How to Train your Snapdragon: Exploring Power Frameworks on Android
   - Josh “m0nk” Thomas
 4.	LTE vs. Darwin
-  - Hendrik Schmidt and Brian Butterly
+  - Hendrik Schmidt
+  - Brian Butterly
 5.	Malicious Online Activities Related to the 2012 U.S. General Election - Joshua Franklin, Robert Tarlecki and Matthew Jablonski
 6.	The NSA: Capabilities and Countermeasures - Bruce Schneier
 7.	Syncing Mentorship Between Winners And Beginners - Tarah Wheeler Van Vlack and Liz Dahlstrom
