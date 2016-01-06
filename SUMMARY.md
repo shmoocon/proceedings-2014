@@ -23,7 +23,7 @@
    * [Unambiguous Encapsulation](belay/05_unambiguous_encapsulation.md)
 * [BRING IT ON](bring/bring_it_on.md)
    * [Arms Race: The Story of (In)-Secure Bootloaders](bring/01_arms_race_the_story_of_in-secure_bootloaders.md)
-   * How to Train your Snapdragon: Exploring Power Frameworks on Android
+   * [How to Train your Snapdragon: Exploring Power Frameworks on Android](bring/02_how_to_train_your_snapdragon.md)
    * Syncing Mentorship Between Winners And Beginners
    * Technology Law Issues for Security Professionals
 
