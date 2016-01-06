@@ -10,7 +10,7 @@ We have begun to identify new ways to encapsulate data using encodings that unam
 
 ## Introduction
 
-Existing methods of channel coding encapsulate data ambiguously. For example, a packet's payload in a wireless communication protocol is encoded and modulated in the same manner as the packet's header. This ambiguity enables a class of attacks exemplified by Packet in Packet[1]. Similarly, data at rest are typically encapsulated in a manner that can be confused with surrounding data or executable code. This ambiguity enables many types of attack in which user supplied data are interpreted as executable code.
+Existing methods of channel coding encapsulate data ambiguously. For example, a packet's payload in a wireless communication protocol is encoded and modulated in the same manner as the packet's header. This ambiguity enables a class of attacks exemplified by Packet in Packet[^1]. Similarly, data at rest are typically encapsulated in a manner that can be confused with surrounding data or executable code. This ambiguity enables many types of attack in which user supplied data are interpreted as executable code.
 
 Below we demonstrate an example of unambiguous encapsulation using a delimited base64 file format. We then proceed to show how the technique may be applied to error correcting codes for communication and data storage.
 
@@ -161,24 +161,24 @@ Our work is supported by the DARPA Cyber Fast Track program.
 
 ## References
 
-[1] Packets in packets, Goodspeed et al., USENIX Workshop on Offensive
-Technologies 2011,
+* [^1] Packets in packets, Goodspeed et al., USENIX Workshop on Offensive Technologies 2011,
 https://www.usenix.org/legacy/events/woot11/tech/final_files/Goodspeed.pdf
 
-[2] Delimited base64 file format specification, Ossmann,
+* [^2] Delimited base64 file format specification, Ossmann,
 https://github.com/mossmann/unambiguous-encapsulation/blob/master/doc/delimitedbase64spec.txt
 
-[3] Interpolique, Kaminsky, http://dankaminsky.com/interpolique
+* [^3] Interpolique, Kaminsky, http://dankaminsky.com/interpolique
 
-[4] https://github.com/mossmann/unambiguous-encapsulation
+* [^4] https://github.com/mossmann/unambiguous-encapsulation
 
-Keywords: packets in packets, forward error correction, encoding
+#### Metadata
 
+Tags: packets in packets, forward error correction, encoding
 
-Primary Author Name: Michael Ossmann
-Primary Author Affiliation: Great Scott Gadgets
-Primary Author Email: mike@ossmann.com
+**Primary Author Name**: Michael Ossmann  
+**Primary Author Affiliation**: Great Scott Gadgets  
+**Primary Author Email**: mike@ossmann.com  
 
-Additional Author Name: Dominic Spill
-Additional Author Affiliation: Great Scott Gadgets
-Additional Author Email: dominicgs@gmail.com
+**Additional Author Name**: Dominic Spill  
+**Additional Author Affiliation**: Great Scott Gadgets  
+**Additional Author Email**: dominicgs@gmail.com
