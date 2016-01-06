@@ -50,11 +50,14 @@
   - Sean Barnum and Aharon Chernin
 6. Practical Applications of Data Science in Detection
   - Mike Sconzo and Brian Wylie
-7.	Raising Costs for your Attackers Instead of your CFO
+7. Raising Costs for your Attackers Instead of your CFO
   - Aaron Beuhring and Kyle Salous
-8.	The “Science of Cyber” and the Next Generation of Security Tools
+8. The “Science of Cyber” and the Next Generation of Security Tools
   - Paulo Shakarian
-9.	Timing-Based Attestation: Sexy Defense, or the Sexiest - Xeno Kovah, Corey Kallenberg and John Butterworth
+9. Timing-Based Attestation: Sexy Defense, or the Sexiest
+  - Xeno Kovah
+  - Corey Kallenberg
+  - John Butterworth
 10.	Unambiguous Encapsulation - Separating Data and Signaling - Dominic Spill and Michael Ossmann
 
 ## BRING IT ON
