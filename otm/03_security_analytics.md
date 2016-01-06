@@ -96,6 +96,7 @@ Results: 76 hits over 5 months, with ~60% false positive rate. Some false positi
  2. Getting a good signal/noise ratio is *hard*.
  3. Success most often came from cross-correlating other information like reputation lists, travel schedules.
 
+### References
 
 [^1] https://isc.sans.edu/forums/diary/A+Poor+Man+s+DNS+Anomaly+Detection+Script/13918
 
