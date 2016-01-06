@@ -75,7 +75,7 @@ Unambiguous encapsulation is a useful design pattern that can be applied in any 
 
 We hope that the codes produced by this project will be useful in practical applications and that we have been able to promote discussion around the concept of unambiguous encapsulation.
 
-##Acknowledgments
+## Acknowledgments
 
 We would like to thank members of the LANGSEC community for their advice, encouragement, and feedback. We also thank Mike Kershaw and David Hulton for assistance with the project.
 
