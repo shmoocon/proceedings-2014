@@ -99,6 +99,7 @@ Our experiments show that the idea of spatial analysis is a sound one.  Spatial 
 * [^3] MANDIANT. (2010). M-trends: The Advanced Persistent Threat - http://www.princeton.edu/~yctwo/files/readings/M-Trends.pdf
 * [^4] SmidgeonSoft. (2013). Windows Programming Utilities - http://www.smidgeonsoft.prohosting.com/
 
+#### Metadata
 Tags: Visual Malware Analysis, Spatial Analysis, Byte Sequences, Statistical Features
 
 **Primary Author Name**: David Giametta  
