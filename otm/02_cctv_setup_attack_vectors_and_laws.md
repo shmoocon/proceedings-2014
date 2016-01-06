@@ -5,8 +5,7 @@ Ever wonder how to set-up a CCTV Digital Video Recording security system? This a
 
 First, we will go over basic setup on how we planned out this project. This will include things to be mindful of such as camera quality, disk space and other features. In the second part, we will cover attack vectors we considered while setting the system and how we designed a special project to help stay anonymous from CCTV systems. 
 
-Finally, we will go over things that you should have in mind in the legal realm for this kind of project. Be forewarned; we are not a lawyers or judges, but received advice from a NC
-judge regarding recording and wiretapping laws. Included is a court case that backs up some of the conclusions and decisions we made to build this system.
+Finally, we will go over things that you should have in mind in the legal realm for this kind of project. Be forewarned; we are not a lawyers or judges, but received advice from a NC judge regarding recording and wiretapping laws. Included is a court case that backs up some of the conclusions and decisions we made to build this system.
 
 Contributions
 ---------------
