@@ -20,22 +20,11 @@ We present USBProxy[^2], a USB man in the middle tool designed for the BeagleBon
 We have worked hard to make sure that USBProxy uses as few system resources as possible, while being flexible by allowing third party extensions through a simple plugin system.
 
 
-Background
-----------
+## Background
 
-USBProxy is certainly not the first USB man in the middle or device spoofing
-tool for USB. As part of Google Summer of Code 2010, Nicolas Boichat created a
-kernel module and tool named USBSniffer[3] that allowed the BeagleBoard xM to
-pass through USB traffic and monitor it with USBMon. Unfortunately the
-USBSniffer required maintenance to keep in line with the kernel, which has not
-happened, so it no longer builds against modern kernels.
+USBProxy is certainly not the first USB man in the middle or device spoofing tool for USB. As part of Google Summer of Code 2010, Nicolas Boichat created a kernel module and tool named USBSniffer[^3] that allowed the BeagleBoard xM to pass through USB traffic and monitor it with USBMon. Unfortunately the USBSniffer required maintenance to keep in line with the kernel, which has not happened, so it no longer builds against modern kernels.
 
-In 2012 Travis Goodspeend designed FaceDancer[4] which combines a Maxim
-Integrated MAX3421E USB peripheral IC with a GoodFET device to allow USB devices
-prototyped in Python to be connected to a host. FaceDancer has been popular
-among the information security industry, but it has some limitations which we
-would like to avoid, such as a maximum of two endpoints and a 1Mbps data rate,
-although this was improved by RaspDancer[5] and BeagleDancer[6].
+In 2012 Travis Goodspeend designed FaceDancer[^4] which combines a Maxim Integrated MAX3421E USB peripheral IC with a GoodFET device to allow USB devices prototyped in Python to be connected to a host. FaceDancer has been popular among the information security industry, but it has some limitations which we would like to avoid, such as a maximum of two endpoints and a 1Mbps data rate, although this was improved by RaspDancer[^5] and BeagleDancer[^6].
 
 USBProxy is built on top of an existing kernel module which provides us with
 stability and the opportunity to be agnostic about the underlying hardware. We
