@@ -40,8 +40,8 @@ First, the project used Dropbox to upload the files from a Windows VM running AV
 
 For streaming to mobile devices, it worked out that RTSP streams and a website could be built enhance functionality.  Quicktime encoded the streams and password protection was done via some form of `.htaccess` files and channels were selected via GET request in the form of: `rtsp://192.168.1.100/video/empty.mov?ch=1`
 
-Attack Vectors
------------------
+## Attack Vectors
+
 Joshua and Spencer looked at ways to circumvent the following types of cameras: Wireless, outdoor w/LED, indoor/outdoor oscillating, stationary indoor domes, and hidden cameras (i.e. hidden within a clock, a sprinkler, or statue). Other non-CCTV cameras surveyed included: mobile phones, laptops, and video game consoles.
 
 For a wireless system, a wireless jammer can be used to circumvent the security. An oscillating camera might be circumvented by sneaking past the rotation cycles the same way you would get by a patrolling guard. With a wired camera, there is always the option of cutting the cables --if they are feasibly reachable. The dome and hidden cameras are obviously the most difficult to circumvent. With the dome cameras, it is hard to see which direction the camera is facing and with the hidden cameras, well, they’re hidden!
