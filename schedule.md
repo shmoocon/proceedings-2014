@@ -12,7 +12,8 @@
 4. The Evolution of Linux Kernel Module Signing
   - Rebecca “.bx” Shapiro
 5. How Hackers for Charity (possibly) Saved me a LOT of Money
-  - Branden Miller and Emily Miller
+  - Branden Miller
+  - Emily Miller
 6. [Security Analytics: Less Hype, More Data](otm/03_security_analytics.md)
   - Aaron Gee-Clough
 
