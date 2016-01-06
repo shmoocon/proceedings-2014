@@ -55,10 +55,9 @@ A filter plugin is as simple as writing two functions that handle packets and co
 
 An injector only needs to expose a file descriptor from which injected packets can be read.
 
-Device proxy plugins can be used to prototype future devices; they only require
-device descriptors and functions to handle reading and writing of endpoints.
-This allows developers to begin writing drivers and host applications before
-devices have been produced.
+Device proxy plugins can be used to prototype future devices; they only require device descriptors and functions to handle reading and writing of endpoints.
+
+This allows developers to begin writing drivers and host applications before devices have been produced.
 
     send_data(endpoint, attributes, maxPacketSize, dataptr, length)
     receive_data(endpoint, attributes, maxPacketSize, dataptr, length, timeout)
