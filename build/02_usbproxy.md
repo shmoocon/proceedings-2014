@@ -65,14 +65,11 @@ This allows developers to begin writing drivers and host applications before dev
 Plugins also allow bindings to be written for different languages. We have begun this work with a Python device plugin, which we hope will support existing FaceDancer applications.
 
 
-Future Work
------------
+## Future Work
 
-We plan to implement full FaceDancer software compatibility so that exiting
-tools[10] can be used unmodified with USBProxy.
+We plan to implement full FaceDancer software compatibility so that exiting tools[^10] can be used unmodified with USBProxy.
 
-We have not yet identified any systems with USB 3.0 capabilities that support
-gadgetfs, but we intend to support Daisho[11] as soon as possible.
+We have not yet identified any systems with USB 3.0 capabilities that support gadgetfs, but we intend to support Daisho[^11] as soon as possible.
 
 
 Acknowledgements
