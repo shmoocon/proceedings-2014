@@ -1,22 +1,22 @@
 # CCTV - Setup, Attack Vectors and Laws
 
-## Abstract: 
+## Abstract
 Ever wonder how to set-up a CCTV Digital Video Recording security system? This article talks about just that, as well as key factors like attack vectors and recording laws.
 
 First, we will go over basic setup on how we planned out this project. This will include things to be mindful of such as camera quality, disk space and other features. In the second part, we will cover attack vectors we considered while setting the system and how we designed a special project to help stay anonymous from CCTV systems. 
 
 Finally, we will go over things that you should have in mind in the legal realm for this kind of project. Be forewarned; we are not a lawyers or judges, but received advice from a NC judge regarding recording and wiretapping laws. Included is a court case that backs up some of the conclusions and decisions we made to build this system.
 
-Contributions
----------------
+## Contributions
+
 Several people made this project and presentation possible. Joshua Schroeder and Ben Van Pelt came up with the plan for Closed Circuit Television (CCTV) system and created a solution for reliable offsite backups. 
 
 In the InfraRed LED attack: prototype, conception and design was done by Spencer Brooks with the assistance of Joshua Schroeder. Electrical design was done by Don Schroeder.
 
 Joshua Schroeder compiled legal thoughts. 
 
-Motivations
--------------
+## Motivations
+
 The motivation for the original project came when Joshua’s dad took him to the Consumer Electronics Show in 2008 where they saw hundreds of CCTV camera systems. There were exhibitors from around the world showing off how they could hide and protect company assets. 
 
 While in college at UNC Charlotte, Joshua bought a CCTV system learn how to attack and secure this type of system. The process of selecting the correct product was done with assistance from his roommate Ben Van Pelt. They researched Amazon, Ebay, and many other sites to find a system matching their specifications:
@@ -32,8 +32,8 @@ While in college at UNC Charlotte, Joshua bought a CCTV system learn how to atta
 
 The result was the Avtech CPCAM 16 camera system with 500GB DVR from Taiwan. It included 16 camera capability (6 cameras included), claimed FTP and email uploads with alerts and live streaming via 100/10 LAN hookup. The total cost was $711 from Ebay.
 
-Methods
-----------
+## Methods
+
 One the main goals was to offsite backups in order to protect the footage in the event camera data was stolen. Both Email alerting system and FTP upload were attempted. Unfortunately, neither feature worked.
 
 First, the project used Dropbox to upload the files from a Windows VM running AVTECH’s Video Viewer (free registration required). This application logged into the AVTECH camera system, processed video for motion detection, outputted the video to AVC format and put it on to Dropbox. With normal use, Dropbox’s 2GB filled up in a week, and a switch was made to a Box.net 50GB account. 
