@@ -21,7 +21,7 @@
   - Jake Williams and Alissa Torres
 2. [An Open and Affordable USB Man in the Middle Device](build/02_usbproxy.md)
   - Dominic Spill
-3. AV Evasion with the Veil Framework
+3. [AV Evasion with the Veil Framework](build/03_av-evasion_with_the_veil_framework.md)
   - Christopher Truncer, TheGrayhound and Michael Wright
 4. Controlling USB Flash Drive Controllers: Expose of Hidden Features
   - Richard Harman
