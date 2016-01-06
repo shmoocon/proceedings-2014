@@ -53,7 +53,7 @@
 2. Data Whales and Troll Tears: Beat the Odds in InfoSec
   - Davi Ottenheimer
   - Allison Miller
-3. “How I Met Your Mother” or The Brief and Secret History of Bletchley Park and How They Invented Cryptography and the Computer Age
+3. [“How I Met Your Mother” or The Brief and Secret History of Bletchley Park and How They Invented Cryptography and the Computer Age](belay/02_how_i_met_your_mother_or_the_brief_and_secret.md)
   - Benjamin Gatti
 4. Introducing DARPA’s Cyber Grand Challenge
   - Mike Walker
