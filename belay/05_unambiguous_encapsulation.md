@@ -36,11 +36,7 @@ An unambiguous format similar to this is formally defined in the delimited base6
 
 Delimited base64 files can encode any 8-bit data while csv files typically may include only plain text. They are nestable because the inner encoding can encode all characters found in both the delimiters and the encoded data. Nestability is an interesting property of this scheme that is not found in every scheme for unambiguous encapsulation.
 
-An example of a similar solution is Dan Kaminsky's Interpolique[3]. However,
-the outer character set (the delimiters) for a delimited base64 file format may
-be chosen so that it does not overlap at all with the character set of the inner
-encoding. This makes it easier to prove that malicious inner data can't be
-interpreted as outer data.
+An example of a similar solution is Dan Kaminsky's Interpolique[^3]. However, the outer character set (the delimiters) for a delimited base64 file format may be chosen so that it does not overlap at all with the character set of the inner encoding. This makes it easier to prove that malicious inner data can't be interpreted as outer data.
 
 
 Error Control Codes
