@@ -8,10 +8,6 @@ First, we will go over basic setup on how we planned out this project. This will
 Finally, we will go over things that you should have in mind in the legal realm for this kind of project. Be forewarned; we are not a lawyers or judges, but received advice from a NC
 judge regarding recording and wiretapping laws. Included is a court case that backs up some of the conclusions and decisions we made to build this system.
 
-
-CCTV - Setup, Attack Vectors and Laws
-=========================
-
 Contributions
 ---------------
 Several people made this project and presentation possible. Joshua Schroeder and Ben Van Pelt came up with the plan for Closed Circuit Television (CCTV) system and created a solution for reliable offsite backups. 
