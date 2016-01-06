@@ -93,11 +93,13 @@ It can be adapted to add new layers of security/privacy. The process will involv
 
 **It's necessary to implement additional measures until Instant Messaging Platforms decide to take security seriously.**
 
-Title: Malicious Threats, Vulnerabilities and Defenses in WhatsApp and Mobile Instant Messaging Platforms  
-Primary Author Name: Jaime Sanchez  
-Primary Author Affiliation: http://www.seguridadofensiva.com / @segofensiva  
-Primary Author Email: jsanchez@seguridadofensiva.com  
-Additional Author Name: Pablo San Emeterio  
-Additional Author Affiliation: I+D Optenet / @psaneme  
-Additional Author Email: psaneme@gmail.com  
-Keywords:  Instant Messaging, Line, BBM, Snapchat, WhatsApp, encryption, privacy, anonymity, security, mobile, IM, Vulnerability, Defenses, Denial of Service, surveillance, RC4, XOR, WAUTH-1  
+#### Metadata
+
+Tags:  Instant Messaging, Line, BBM, Snapchat, WhatsApp, encryption, privacy, anonymity, security, mobile, IM, Vulnerability, Defenses, Denial of Service, surveillance, RC4, XOR, WAUTH-1
+
+**Primary Author Name**: Jaime Sanchez  
+**Primary Author Affiliation**: http://www.seguridadofensiva.com / @segofensiva  
+**Primary Author Email**: jsanchez@seguridadofensiva.com  
+**Additional Author Name**: Pablo San Emeterio  
+**Additional Author Affiliation**: I+D Optenet / @psaneme  
+**Additional Author Email**: psaneme@gmail.com  
