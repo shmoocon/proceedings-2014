@@ -55,7 +55,7 @@ HackNMod.com had used IR/LED lights on hats to block nighttime recordings. Howev
 
 “IR Stealth Hoodie” (ISH850) 
 Prototype design including the placement of bulbs, wires, and batteries:
- ![CCTV Diagram - Wires, Bulbs, Switches and 9 volt batteriest](http://joshingeneral.com/images/CCTVDiagram.jpg “IR Stealth Hoodie” (ISH850)”)
+ ![CCTV Diagram - Wires, Bulbs, Switches and 9 volt batteriest](imgs/CCTVDiagram.jpg)
 
 Legal
 ------
