@@ -18,7 +18,8 @@
 ## BUILD IT
 
 1. [ADD – Complicating Memory Forensics Through Memory Disarray](build/01_add_complicating_memory_forensics.md)
-  - Jake Williams and Alissa Torres
+  - Jake Williams
+  - Alissa Torres
 2. [An Open and Affordable USB Man in the Middle Device](build/02_usbproxy.md)
   - Dominic Spill
 3. [AV Evasion with the Veil Framework](build/03_av-evasion_with_the_veil_framework.md)
