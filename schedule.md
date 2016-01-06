@@ -42,8 +42,9 @@ BELAY IT
 	9.	Timing-Based Attestation: Sexy Defense, or the Sexiest - Xeno Kovah, Corey Kallenberg and John Butterworth
 	10.	Unambiguous Encapsulation - Separating Data and Signaling - Dominic Spill and Michael Ossmann
 
-BRING IT ON
-	1.	Abusing ACPI Control Methods - Assambly
+## BRING IT ON
+
+1.	Abusing ACPI Control Methods- Assambly
 	2.	Arms Race: The Story of (In)-Secure Bootloaders - Lee Harrison and Kang Li
 	3.	How to Train your Snapdragon: Exploring Power Frameworks on Android - Josh “m0nk” Thomas
 	4.	LTE vs. Darwin - Hendrik Schmidt and Brian Butterly
