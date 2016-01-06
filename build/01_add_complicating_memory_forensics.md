@@ -1,6 +1,7 @@
 # ADD: Complicating Memory Forensics Through Memory Disarray
 
-## Abstract: 
+## Abstract
+
 This paper introduces ADD (Attention Deficit Disorder), a tool that litters Windows physical memory with (configurable amounts and types of) garbage to disrupt memory forensics. Memory forensics has become so mainstream that it's catching too many attackers during routine investigations (making Jake a sad panda). If memory forensics were much harder to perform, then attackers could retain the upper hand. ADD increases the cost of memory forensics by allocating new structures in memory that serve only to disrupt an investigation.
 
 This paper explains at a very high level how ADD complicates memory forensics and raises the bar for forensic investigator. We discuss the architecture and motivations for developing and releasing this tool that clearly can be used for malicious purposes.
