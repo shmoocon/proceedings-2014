@@ -53,8 +53,7 @@ A filter plugin is as simple as writing two functions that handle packets and co
     filter_packet(Packet)
     filter_setup_packet(SetupPacket, direction)
 
-An injector only needs to expose a file descriptor from which injected packets
-can be read.
+An injector only needs to expose a file descriptor from which injected packets can be read.
 
 Device proxy plugins can be used to prototype future devices; they only require
 device descriptors and functions to handle reading and writing of endpoints.
