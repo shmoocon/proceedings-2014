@@ -151,10 +151,13 @@ References
 [11] Daisho, https://github.com/mossmann/daisho
 
 
-Primary Author Name: Dominic Spill
+#### Metadata
+Tags: USB, man-in-the-middle, open source
+
+**Primary Author Name**: Dominic Spill  
 Primary Author Affiliation: Great Scott Gadgets
 Primary Author Email: dominicgs@gmail.com
 
 Additional Author Name: Adam Stasiak
 
-Keywords: USB, man-in-the-middle, open source
+Keywords: 
