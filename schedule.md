@@ -17,7 +17,7 @@
 
 ## BUILD IT
 
-1. ADD – Complicating Memory Forensics Through Memory Disarray
+1. [ADD – Complicating Memory Forensics Through Memory Disarray](build/01_add_complicating_memory_forensics.md)
   - Jake Williams and Alissa Torres
 2. An Open and Affordable USB Man in the Middle Device
   - Dominic Spill
