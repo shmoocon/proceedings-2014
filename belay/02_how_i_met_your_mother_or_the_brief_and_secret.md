@@ -26,7 +26,7 @@ The Germans used two main ciphers during the war, one, the Enigma is portable bu
 
 Starting in 1938, the Enigma was altered to increase its complexity, and each time, the team at Bletchley Park headed by Alan Turing, responded by increasing the complexity of the cryptographic bombs.  A significant change - the addition of a Fourth rotor - created the need to implement the fastest rotor in exotic tubes rather the more reliable relay logic. The team brought in to develop the tube logic included Wynn-Williams, who in 1930 had invented a vacuum tube counter for research in nuclear physics.
 
-![](gatti1)
+![](imgs/Wynn-Williams_Scale-of_-Two_Counter_from_the_Cavendish_Laboratory,_University_of_Cambridge,UK.jpg)
 
 Heath Robinson
 
