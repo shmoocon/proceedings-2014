@@ -52,8 +52,8 @@ HackNMod.com had used IR/LED lights on hats to block nighttime recordings. Howev
 Prototype design including the placement of bulbs, wires, and batteries:
  ![CCTV Diagram - Wires, Bulbs, Switches and 9 volt batteriest](imgs/CCTVDiagram.jpg)
 
-Legal
-------
+## Legal
+
 Another aspect researched while working on this project, was consulting with a local North Carolina judge who taught at UNC Charlotte. This brought to light legal ramifications of recording without consent.
 
 The first thing he taught us was the idea of “reasonable expectation of privacy.” Recording our front lawn or outside is “OK” because there is no reasonable expectation of privacy there. Hence, that is why Google street views can exist. Comparatively, since there is some reasonable expectation of privacy within a home or apartment, we would need to put up signs to limit that expectation of privacy. He also told us not to record audio since that would contest with current wiretapping laws. 
