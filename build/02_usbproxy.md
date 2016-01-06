@@ -46,9 +46,7 @@ The final set of plugins allow packets to be injected in to the connection, such
 
 ## Extending USBProxy
 
-From the beginning of the project we wanted to make it as easy as possible to
-extend the basic functionality that we have written. Any user should be able to
-write their own plugins.
+From the beginning of the project we wanted to make it as easy as possible to extend the basic functionality that we have written. Any user should be able to write their own plugins.
 
 A filter plugin is as simple as writing two functions that handle packets and
 control requests.
