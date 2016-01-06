@@ -32,12 +32,7 @@ If each field is base64 encoded, the same file looks like this:
 
 Because the comma and newline do not appear in base64 encoded data, the encapsulation of inner data elements is unambiguous. Outer data consist only of commas and newlines. Inner data are represented only by characters that appear in base64 encoding. This encapsulation avoids the problems associated with escaping and quotation. Any commas or newlines present within a field are unambiguously differentiated from outer commas and newlines because they are base64 encoded.
 
-An unambiguous format similar to this is formally defined in the delimited
-base64 file format specification[2]. We believe that, even with the addition of
-base64 decoding, a parser for this file format will require fewer lines of code
-than existing csv parsers. Decoding base64 data is shorter and better defined
-than the code required to handle quoting, escaping, and the associated corner
-cases of the csv format.
+An unambiguous format similar to this is formally defined in the delimited base64 file format specification[2]. We believe that, even with the addition of base64 decoding, a parser for this file format will require fewer lines of code than existing csv parsers. Decoding base64 data is shorter and better defined than the code required to handle quoting, escaping, and the associated corner cases of the csv format.
 
 Delimited base64 files can encode any 8-bit data while csv files typically may
 include only plain text. They are nestable because the inner encoding can encode
