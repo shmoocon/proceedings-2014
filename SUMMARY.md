@@ -11,7 +11,7 @@
    * [Security Analytics](otm/03_security_analytics.md)
 * [BUILD IT](build/build_it.md)
    * [ADD: Complicating Memory Forensics Through Memory Disarray](build/01_add_complicating_memory_forensics.md)
-   * USBProxy
+   * [USBProxy](build/02_usbproxy.md)
 * [BELAY IT](belay/belay_it.md)
 * [BRING IT ON](bring/bring_it_on.md)
 
