@@ -6,15 +6,6 @@
 
 This talk is about protections, mitigations, or detection mechanisms that I’ve seen across businesses big and small that were innovative and highly effective, yet free (or mostly free) and stopped me (as an attacker) dead in my tracks. We will be going over 11 (or a many as we can get to) methods, tactics, and software setups that will cut down intrusions significantly. Changes that you can deploy or start deployment of the hour after the talk is done.
 
-Tags: defense, java, 0day, emet, proxy, honeypots, canaries, dns, antivirus, hips, ids, ips, passwords, auditing, phishing, hacker economics, bug bounty, incentive programs
-
-* **Primary Author Name**: Mubix "Rob" Fuller
-* **Primary Author Affiliation**: Hak5 / Metasploit
-* **Primary Author Email**: mubix@metasploit.com
-* **Primary Author Bio**: Mubix is a Senior Red Teamer. His professional experience starts from his time on active duty as United States Marine. He has worked with devices and software that run gambit in the security realm. He has a few certifications, but the titles that he holds above the rest is FATHER, HUSBAND and United States Marine.
-* **Keywords**: 
-* 
-
 ## Content
 
 RSA, Blackhat, and other large “Infosec” conferences include vendor areas. These vendor areas are filled with black box vendors and software vendors that claim everything from all-in-one solutions to negative day detection of exploits. What aren’t vended in these areas are solutions that are free, or low cost. Why? Because it’s a ton of money to rent a table at these large conferences and it doesn’t make sense to have zero return on that investment.
@@ -65,3 +56,11 @@ Other mitigations to be covered are:
 * DNS
 * Password Auditing
 * Evil Canaries
+
+
+Tags: defense, java, 0day, emet, proxy, honeypots, canaries, dns, antivirus, hips, ids, ips, passwords, auditing, phishing, hacker economics, bug bounty, incentive programs
+
+**Primary Author Name**: Mubix "Rob" Fuller  
+**Primary Author Affiliation**: Hak5 / Metasploit  
+**Primary Author Email**: mubix@metasploit.com  
+**Primary Author Bio**: Mubix is a Senior Red Teamer. His professional experience starts from his time on active duty as United States Marine. He has worked with devices and software that run gambit in the security realm. He has a few certifications, but the titles that he holds above the rest is FATHER, HUSBAND and United States Marine.
