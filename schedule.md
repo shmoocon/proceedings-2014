@@ -71,7 +71,9 @@
   - Xeno Kovah
   - Corey Kallenberg
   - John Butterworth
-10.	Unambiguous Encapsulation - Separating Data and Signaling - Dominic Spill and Michael Ossmann
+10.	Unambiguous Encapsulation - Separating Data and Signaling
+  - Dominic Spill
+  - Michael Ossmann
 
 ## BRING IT ON
 
