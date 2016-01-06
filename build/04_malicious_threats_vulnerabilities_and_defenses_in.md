@@ -32,7 +32,8 @@ We'll disclosure some other vulnerabilities in that can affect users and Snapcha
 
 **Do you think we can attack the 4.6 million accounts exposed in the last days?**
 
-## WHATSAPP ##
+## WHATSAPP
+
 [WhatsApp](http://www.whatsapp.com "WhatsApp Homepage") is a cross-platform (available for iPhone, Android, Blackberry, Nokia and Windows Phone, but no official desktop clients) instant messaging subscription service for smartphones, that let users send messages and multimedia files to each other. 
 
 WhatsApp might not be as widely known as Twitter, but it is definitely just as popular in terms of users. The company announced that it has passed 400 million active monthly users ([Forbes](http://www.forbes.com/sites/parmyolson/2013/12/19/watch-out-facebook-whatsapp-climbs-past-400-million-active-users/ "WhatsApp Climbs Past 400 Million Active Users")). It’s interesting to compare that stat to Twitter, which has 230 million active monthly users, and to Instagram, which has 150 million on its platform.
