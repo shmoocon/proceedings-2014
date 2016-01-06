@@ -6,7 +6,6 @@
 <p>&nbsp</p>
 # BELAY IT!
 
-
 1. A Critical Review of Spatial Analysis
   - David Giametta
   - Andrew Potter
