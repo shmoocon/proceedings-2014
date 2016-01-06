@@ -100,6 +100,7 @@ Our experiments show that the idea of spatial analysis is a sound one.  Spatial 
 * [^4] SmidgeonSoft. (2013). Windows Programming Utilities - http://www.smidgeonsoft.prohosting.com/
 
 #### Metadata
+
 Tags: Visual Malware Analysis, Spatial Analysis, Byte Sequences, Statistical Features
 
 **Primary Author Name**: David Giametta  
