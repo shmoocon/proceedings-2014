@@ -11,7 +11,7 @@ USBProxy has been designed for use with the BeagleBone Black, making it cheap an
 
 USB is the most ubiquitous interface for consumer technologies, with 2 billion devices sold each year. So it is unsurprising that USB security is becoming the focus of more and more research, including driver exploitation on host systems, device firmware security and the connection in between.
 
-There are many tools available for USB investigation, but most of them have limitations that prevent a full audit of USB systems. In the spirit of Wright's Law[1]
+There are many tools available for USB investigation, but most of them have limitations that prevent a full audit of USB systems. In the spirit of Wright's Law[^1]
 
 >Security will not get better until tools for practical exploration of the
 >attack surface are made available
@@ -138,7 +138,7 @@ a very useful reference for dealing with gadgetfs.
 
 References
 ----------
-[1] Wright's Law, Joshua Wright, http://code.google.com/p/zigbee-security
+[^1] Wright's Law, Joshua Wright, http://code.google.com/p/zigbee-security
 [2] USBProxy, https://github.com/dominicgs/USBProxy
 [3] USBSniffer, Nicholas Boichat, http://www.elinux.org/BeagleBoard/GSoC/2010_Projects/USBSniffer
 [4] FaceDancer, Travis Goodspeed, Sergey Bratus, http://goodfet.sourceforge.net/hardware/facedancer21
