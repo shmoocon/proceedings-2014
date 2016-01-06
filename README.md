@@ -13,7 +13,7 @@ No part of this publication may be reproduced without prior written permission o
 
 Photo credits: Unless stated otherwise, all images © the authors.
 
-Shmoocon Press  
+ShmooCon Press  
 Washington, DC  
 www.shmoocon.org  
 ISBN XXX-X-XXXXX-XXX-X
