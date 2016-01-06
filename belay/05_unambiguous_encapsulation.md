@@ -78,9 +78,7 @@ We hope that the codes produced by this project will be useful in practical appl
 Acknowledgments
 ---------------
 
-We would like to thank members of the LANGSEC community for their advice,
-encouragement, and feedback. We also thank Mike Kershaw and David Hulton for
-assistance with the project.
+We would like to thank members of the LANGSEC community for their advice, encouragement, and feedback. We also thank Mike Kershaw and David Hulton for assistance with the project.
 
 Our work is supported by the DARPA Cyber Fast Track program.
 
