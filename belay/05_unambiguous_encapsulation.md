@@ -73,10 +73,7 @@ discovery of even longer codes. These codes will possess greater error
 correction and detection capabilities, and we also expect them to have more
 interesting isolation properties.
 
-In the future we hope to identify additional classes of error correcting codes
-that provide encapsulation. For each class of codes, we will either prove by
-construction that they exist or by exhaustive search that they do not exist up
-to a certain codeword length.
+In the future we hope to identify additional classes of error correcting codes that provide encapsulation. For each class of codes, we will either prove by construction that they exist or by exhaustive search that they do not exist up to a certain codeword length.
 
 Conclusion
 ----------
