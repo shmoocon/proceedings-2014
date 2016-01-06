@@ -75,12 +75,8 @@ Sources
 * Infrared LEDs ($7.87) http://www.amazon.com/dp/B008QUUEYS
 * Black Hoodie ($11.57) http://www.walmart.com/ip/22471487
 * Black Felt ($4.95/yrd) http://www.walmart.com/ip/Creative-Cuts-Anti-Pill-Fleece-by-the-Yard/19235879
-
-Glue ($3.47)
-http://www.walmart.com/ip/E6000-Jewelry-and-Bead-Glue-1-oz/32247489
-
-Velcro ($6.82)
-http://www.walmart.com/ip/Velcro-Fabric-Fusion-Tape/24626447
+* Glue ($3.47) http://www.walmart.com/ip/E6000-Jewelry-and-Bead-Glue-1-oz/32247489
+* Velcro ($6.82) http://www.walmart.com/ip/Velcro-Fabric-Fusion-Tape/24626447
 
 AVTECH Camera
 http://www.avtech.com.tw/index.php?Itemid=311
