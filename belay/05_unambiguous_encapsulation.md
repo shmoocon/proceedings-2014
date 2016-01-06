@@ -46,9 +46,7 @@ While our delimited base64 file format is a helpful introduction to the concept 
 
 When data are stored or transmitted using a noisy or lossy medium, they are typically encoded with an error control code providing some degree of error detection or correction. These codes use codewords of several bits to represent a smaller number of data bits. The additional bits of transmitted information may be used by the receiver of the data to detect or correct bit errors introduced by the medium.
 
-It may be beneficial to select these codes such that distinct codewords are used
-to represent metadata (outer) and encapsulated (inner) data. We have begun to
-discover codes that have interesting encapsulation properties.
+It may be beneficial to select these codes such that distinct codewords are used to represent metadata (outer) and encapsulated (inner) data. We have begun to discover codes that have interesting encapsulation properties.
 
 To date, we have sought codes that consists of linear block codes providing more
 bits of isolation than detection. As far as we are aware, the property of
