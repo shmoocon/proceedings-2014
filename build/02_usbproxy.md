@@ -72,12 +72,9 @@ We plan to implement full FaceDancer software compatibility so that exiting tool
 We have not yet identified any systems with USB 3.0 capabilities that support gadgetfs, but we intend to support Daisho[^11] as soon as possible.
 
 
-Acknowledgements
-----------------
+## Acknowledgements
 
-We would like to thank Travis Goodspeed and Sergey Bratus for their work on
-FaceDancer. We would also like to thank Daiki Ueno for libusb-gadget, which was
-a very useful reference for dealing with gadgetfs.
+We would like to thank Travis Goodspeed and Sergey Bratus for their work on FaceDancer. We would also like to thank Daiki Ueno for libusb-gadget, which was a very useful reference for dealing with gadgetfs.
 
 
 ## References
