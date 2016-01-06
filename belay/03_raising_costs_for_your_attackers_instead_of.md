@@ -32,20 +32,21 @@ By implementing whitelisting, defenders can force attackers to use exploitation 
 
 ## References
 
-* [#1]:Verizon. "2013 Data Breach Investigations Report". http://www.verizonenterprise.com/resources/reports/rp_data-breach-investigations-report-2013_en_xg.pdf 2013.
-* [#2]:Damballa. "Advanced Malware Install Lifecycle". https://www.damballa.com/downloads/r_pubs/WP_Advanced_Malware_Install_LifeCycle.pdf 2011.
+* [^1] Verizon. "2013 Data Breach Investigations Report". http://www.verizonenterprise.com/resources/reports/rp_data-breach-investigations-report-2013_en_xg.pdf 2013.
 
-* [#3]:Emisoft. "CryptoLocker – a new ransomware variant". http://blog.emsisoft.com/2013/09/10/cryptolocker-a-new-ransomware-variant/ 2013.
+* [^2] Damballa. "Advanced Malware Install Lifecycle". https://www.damballa.com/downloads/r_pubs/WP_Advanced_Malware_Install_LifeCycle.pdf 2011.
 
-* [#4]:Mandiant. "APT1 - Exposing One of China’s Cyber Espionage Units". http://intelreport.mandiant.com/Mandiant_APT1_Report.pdf 2013.
+* [^3] Emisoft. "CryptoLocker – a new ransomware variant". http://blog.emsisoft.com/2013/09/10/cryptolocker-a-new-ransomware-variant/ 2013.
 
-* [#5]:Microsoft. "You can circumvent AppLocker rules by using an Office macro on a computer that is running Windows 7 or Windows Server 2008 R2". http://support.microsoft.com/kb/2532445 2011.
+* [^4] Mandiant. "APT1 - Exposing One of China’s Cyber Espionage Units". http://intelreport.mandiant.com/Mandiant_APT1_Report.pdf 2013.
 
-* [#6]:Turner, Francis. ThreatStop. "Blocking Cryptolocker Ransomware". http://blog.threatstop.com/2013/10/23/blocking-cryptolocker-ransomware/ 2012.
+* [^5] Microsoft. "You can circumvent AppLocker rules by using an Office macro on a computer that is running Windows 7 or Windows Server 2008 R2". http://support.microsoft.com/kb/2532445 2011.
 
-* [#7]:Larramo, Mika. SamLogic. "Windows SmartScreen - Anti-Malware Protection in Windows 8". http://www.samlogic.net/articles/windows-8-smartscreen.htm 2012.
+* [^6] Turner, Francis. ThreatStop. "Blocking Cryptolocker Ransomware". http://blog.threatstop.com/2013/10/23/blocking-cryptolocker-ransomware/ 2012.
 
-* [#8]:Bright, Peter. ArsTechnica. "Windows 8 privacy complaint misses the forest for the trees". http://arstechnica.com/information-technology/2012/08/windows-8-privacy-complaint-misses-the-forest-for-the-trees/ 2012
+* [^7] Larramo, Mika. SamLogic. "Windows SmartScreen - Anti-Malware Protection in Windows 8". http://www.samlogic.net/articles/windows-8-smartscreen.htm 2012.
+
+* [^8] Bright, Peter. ArsTechnica. "Windows 8 privacy complaint misses the forest for the trees". http://arstechnica.com/information-technology/2012/08/windows-8-privacy-complaint-misses-the-forest-for-the-trees/ 2012
 
 
 #### Metadata
