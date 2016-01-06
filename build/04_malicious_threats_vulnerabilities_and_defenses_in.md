@@ -100,6 +100,7 @@ Tags:  Instant Messaging, Line, BBM, Snapchat, WhatsApp, encryption, privacy, an
 **Primary Author Name**: Jaime Sanchez  
 **Primary Author Affiliation**: http://www.seguridadofensiva.com / @segofensiva  
 **Primary Author Email**: jsanchez@seguridadofensiva.com  
+
 **Additional Author Name**: Pablo San Emeterio  
 **Additional Author Affiliation**: I+D Optenet / @psaneme  
 **Additional Author Email**: psaneme@gmail.com  
