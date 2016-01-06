@@ -79,12 +79,14 @@ Thus, state laws can include even broader liability than federal laws. State law
 
 While only the briefest overview, the complexities of “the law” should be evident. Many organizations do an great job of raising awareness of legal issues--such as [SlashDot](http://slashdot.org/), [Ars Technica](http://arstechnica.com/), [EFF](https://www.eff.org/), and [EPIC](https://www.epic.org/). If uncertain, some organizations offer legal help or consult an attorney directly. But even general awareness and more refined assessment of online resources might be helpful.
 
-Primary Author Name: Shannon Brown
 
-Primary Author Affiliation: Shannon Brown, Esq.—Consulting Attorney
+## References
 
-Primary Author Email: shmoocon2014@shannonbrownlaw.com
+#### Metadata
 
-Primary Author Bio: Shannon Brown has a background as a software developer; CIO; independent technology consultant; systems administrator; national, public policy researcher; language translator; college instructor; farmer; community leader; cooperative president; lawyer; and business owner. Shannon is a licensed attorney in Pennsylvania, New Jersey, and federal court with focus on legal issues in technology, cryptography,  and computer security. He also regularly writes articles and conducts training about law-and-technology for attorneys. Shannon recently developed a machine learning software application for the legal community to help provide access to justice. His research interests include computer security, cryptography, and machine learning. 
+Tags: law, statutes, courts, Computer Fraud and Abuse Act, CFAA, Stored Communications Act, SCA, Electronic Communications Privacy Act, ECPA, Digital Millennium Copyright Act, DMCA, computer crimes, state computer crimes, data breach reporting, emerging legal issues
 
-Keywords: law, statutes, courts, Computer Fraud and Abuse Act, CFAA, Stored Communications Act, SCA, Electronic Communications Privacy Act, ECPA, Digital Millennium Copyright Act, DMCA, computer crimes, state computer crimes, data breach reporting, emerging legal issues
+**Primary Author Name**: Shannon Brown  
+**Primary Author Affiliation**: Shannon Brown, Esq.—Consulting Attorney  
+**Primary Author Email**: shmoocon2014@shannonbrownlaw.com  
+**Primary Author Bio**: Shannon Brown has a background as a software developer; CIO; independent technology consultant; systems administrator; national, public policy researcher; language translator; college instructor; farmer; community leader; cooperative president; lawyer; and business owner. Shannon is a licensed attorney in Pennsylvania, New Jersey, and federal court with focus on legal issues in technology, cryptography,  and computer security. He also regularly writes articles and conducts training about law-and-technology for attorneys. Shannon recently developed a machine learning software application for the legal community to help provide access to justice. His research interests include computer security, cryptography, and machine learning. 
