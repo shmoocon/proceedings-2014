@@ -42,7 +42,8 @@
   - David Giametta
   - Andrew Potter
 2. Data Whales and Troll Tears: Beat the Odds in InfoSec
-  - Davi Ottenheimer and Allison Miller
+  - Davi Ottenheimer
+  - Allison Miller
 3. “How I Met Your Mother” or The Brief and Secret History of Bletchley Park and How They Invented Cryptography and the Computer Age
   - Benjamin Gatti
 4. Introducing DARPA’s Cyber Grand Challenge
