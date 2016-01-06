@@ -1,6 +1,6 @@
 # Attacker Ghost Stories
 
-## Mostly Free Defenses That Give Attackers Nightmares
+### Mostly Free Defenses That Give Attackers Nightmares
 
 ## Abstract
 
