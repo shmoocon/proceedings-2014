@@ -22,7 +22,7 @@
    * [The “Science of Cyber” and the Next Generation of Security Tools](belay/04_the_science_of_cyber_and_the_next_generation.md)
    * [Unambiguous Encapsulation](belay/05_unambiguous_encapsulation.md)
 * [BRING IT ON](bring/bring_it_on.md)
-   * Arms Race: The Story of (In)-Secure Bootloaders
+   * [Arms Race: The Story of (In)-Secure Bootloaders](bring/01_arms_race_the_story_of_in-secure_bootloaders.md)
    * How to Train your Snapdragon: Exploring Power Frameworks on Android
    * Syncing Mentorship Between Winners And Beginners
    * Technology Law Issues for Security Professionals
