@@ -2,6 +2,6 @@
 
 * [Introduction](README.md)
    * [Foreword](foreword.md)
-   * Copyright
+   * [Copyright](copyright.md)
 * [First Chapter](chapter1.md)
 
