@@ -37,19 +37,23 @@ Assumption #2 is wrong.
 
 You can salvage success for this technique. I did that two ways:
 
-  1. Check the new hostnames report against a DNS reputation list. This had a very low false positive rate (the same rate as the watchlist itself), and only triggered on 3-4 lookups per day.
-  2. The data can be used to build a passive DNS database, which is very valuable for incident response.
+1. Check the new hostnames report against a DNS reputation list. This had a very low false positive rate (the same rate as the watchlist itself), and only triggered on 3-4 lookups per day.
 
-## DNS Model #2: Rate of new names ##
-### Do users have a predictable rate at which they go to new places? ###
+2. The data can be used to build a passive DNS database, which is very valuable for incident response.
+
+## DNS Model #2: Rate of new names
+
+### Do users have a predictable rate at which they go to new places?
 
 Can you model the rate at which users look up new names & does a hacked system show up with a different rate? 
 
 Assumptions:
 
- 1. Users have a predictable rate of looking up new names.
- 2. A compromised system will look up more names than a regular user would.
- 3. Host IPs will be somewhat stable in the face of DHCP. 
+1. Users have a predictable rate of looking up new names.
+
+2. A compromised system will look up more names than a regular user would.
+
+3. Host IPs will be somewhat stable in the face of DHCP. 
  
 I allowed each IP 30 days for a baseline to determine the average rate (with standard deviation) each host looked up new names, then flagged when the IP went 3 sigma past that average.
 
@@ -57,8 +61,9 @@ Results: 5,700 hits. DHCP in some subnets is clearly moving hosts around, but ev
 
 Assumption #1 is wrong.
 
-## Webmail Model #1: Known systems and locations ##
-### Do users actually use the laptops we issue? ###
+## Webmail Model #1: Known systems and locations
+
+### Do users actually use the laptops we issue?
 
 This technique builds on the gmail/facebook alerts about previous browsers/locations that have logged into your account. Do those actually work, and can they be used in a corporate environment to flag compromised accounts? I collected a 30-day baseline of the ASNs (i.e. the originating ISP) of the source IPs used in a webmail session and the browser User-agents used to log in. After the baseline period, when a new connection came in with new ASN and new User-agent, that was flagged as suspicious. 
 
