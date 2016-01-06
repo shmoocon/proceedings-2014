@@ -40,12 +40,7 @@ The USBProxy code consists of two parts, a relayer and a set of plugins. The rel
 
 There are four plugin categories: host proxies, device proxies, filters and injectors. The proxies are used to communicate with external hosts or devices through gadgetfs and libusb. There are also proxies that relay packets via a TCP/IP connection, allowing devices to be used remotely while appearing to be locally connected.
 
-Filters are used to read and modify packets in transit. Some filters log packets
-without modification, while others can be used to filter unwanted packets or
-modify the content. For example filters exist to log keystrokes from a USB
-keyboard or dump all USB packets in pcap format so that they can be imported in
-to
-Wireshark[9].
+Filters are used to read and modify packets in transit. Some filters log packets without modification, while others can be used to filter unwanted packets or modify the content. For example filters exist to log keystrokes from a USB keyboard or dump all USB packets in pcap format so that they can be imported in to Wireshark[^9].
 
 The final set of plugins allow packets to be injected in to the connection, such
 as keystrokes being added or inserting unexpected audio.
