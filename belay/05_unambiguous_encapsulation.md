@@ -34,11 +34,7 @@ Because the comma and newline do not appear in base64 encoded data, the encapsul
 
 An unambiguous format similar to this is formally defined in the delimited base64 file format specification[2]. We believe that, even with the addition of base64 decoding, a parser for this file format will require fewer lines of code than existing csv parsers. Decoding base64 data is shorter and better defined than the code required to handle quoting, escaping, and the associated corner cases of the csv format.
 
-Delimited base64 files can encode any 8-bit data while csv files typically may
-include only plain text. They are nestable because the inner encoding can encode
-all characters found in both the delimiters and the encoded data. Nestability is
-an interesting property of this scheme that is not found in every scheme for
-unambiguous encapsulation.
+Delimited base64 files can encode any 8-bit data while csv files typically may include only plain text. They are nestable because the inner encoding can encode all characters found in both the delimiters and the encoded data. Nestability is an interesting property of this scheme that is not found in every scheme for unambiguous encapsulation.
 
 An example of a similar solution is Dan Kaminsky's Interpolique[3]. However,
 the outer character set (the delimiters) for a delimited base64 file format may
