@@ -29,9 +29,12 @@
   - Ryan Lackey
 6. Introducing idb - Simplified Blackbox iOS App Pentesting
   - Daniel A. Mayer
-	7.	Malicious Threats, Vulnerabilities and Defenses in WhatsApp and Mobile Instant Messaging Platforms - Jaime Sanchez and Pablo San Emeterio
-	8.	SafeCurves: Choosing Safe Curves for Elliptic-Curve Cryptography - Daniel J. Bernstein and Tanja Lange
-	9.	unROP: A Tool for In-Memory ROP Exploitation Detection and Traceback - Kang Li, Xiaoning Li and Lee Harrison
+7. Malicious Threats, Vulnerabilities and Defenses in WhatsApp and Mobile Instant Messaging Platforms
+  - Jaime Sanchez and Pablo San Emeterio
+8. SafeCurves: Choosing Safe Curves for Elliptic-Curve Cryptography
+  - Daniel J. Bernstein and Tanja Lange
+9. unROP: A Tool for In-Memory ROP Exploitation Detection and Traceback
+  - Kang Li, Xiaoning Li and Lee Harrison
 
 BELAY IT
 	1.	A Critical Review of Spatial Analysis - David Giametta and Andrew Potter
