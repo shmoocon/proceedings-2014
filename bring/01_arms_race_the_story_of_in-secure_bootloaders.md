@@ -32,11 +32,6 @@ The mobile device ecosystem offers a somewhat unique security challenge. In many
 
 #### Metadata
 
-
-**Primary Author**: , 
-**Primary Author**:
-Emails: <lee2704,kangli>@uga.edu
-
 **Primary Author Name**: Lee Harrison  
 **Primary Author Email**: lee2704@uga.edu
 
