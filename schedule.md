@@ -32,7 +32,8 @@
 7. [Malicious Threats, Vulnerabilities and Defenses in WhatsApp and Mobile Instant Messaging Platforms](build/04_malicious_threats_vulnerabilities_and_defenses_in.md)
   - Jaime Sanchez and Pablo San Emeterio
 8. SafeCurves: Choosing Safe Curves for Elliptic-Curve Cryptography
-  - Daniel J. Bernstein and Tanja Lange
+  - Daniel J. Bernstein
+  - Tanja Lange
 9. unROP: A Tool for In-Memory ROP Exploitation Detection and Traceback
   - Kang Li
   - Xiaoning Li
