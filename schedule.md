@@ -86,9 +86,17 @@
   - Hendrik Schmidt
   - Brian Butterly
 5. Malicious Online Activities Related to the 2012 U.S. General Election
-  - Joshua Franklin, Robert Tarlecki and Matthew Jablonski
-6.	The NSA: Capabilities and Countermeasures - Bruce Schneier
-7.	Syncing Mentorship Between Winners And Beginners - Tarah Wheeler Van Vlack and Liz Dahlstrom
-8.	Technology Law Issues for Security Professionals - Shannon Brown
-9.	Vehicle Forensics - The Data Beyond the Dashboard - Courtney Lancaster
-10.	You Don’t Have the Evidence - Scott Moulton
+  - Joshua Franklin
+  - Robert Tarlecki
+  - Matthew Jablonski
+6. The NSA: Capabilities and Countermeasures
+  - Bruce Schneier
+7. Syncing Mentorship Between Winners And Beginners
+  - Tarah Wheeler Van Vlack
+  - Liz Dahlstrom
+8. Technology Law Issues for Security Professionals
+  - Shannon Brown
+9. Vehicle Forensics - The Data Beyond the Dashboard
+  - Courtney Lancaster
+10.	You Don’t Have the Evidence
+  - Scott Moulton
