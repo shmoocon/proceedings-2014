@@ -10,8 +10,9 @@ There has been a lot of talk in the industry recently about "analytics" and gett
 Analytics has become a big subject of discussion in the security community over the past few years. However, few people talk about false positive rates, detection rates, etc., when talking about security analytics. I have tried a few techniques to see how they work with real life data, and will share the results from two sources of data: DNS and Webmail. Both sets of logs were collected over a 5-6 month period from an organization with ~40,000 users. 
 
 
-## DNS Model #1: Anomaly Detection ##
-### Are new domains inherently suspicious? ###
+## DNS Model #1: Anomaly Detection
+
+### Are new domains inherently suspicious?
 
 This came from a [SANS handler's diary entry][sans]: can you do DNS anomaly detection by collecting all DNS requests, establishing a baseline, and treating any new DNS zones as inherently suspicious? 
 
