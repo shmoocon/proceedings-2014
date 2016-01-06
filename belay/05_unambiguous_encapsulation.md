@@ -10,15 +10,9 @@ We have begun to identify new ways to encapsulate data using encodings that unam
 
 ## Introduction
 
-Existing methods of channel coding encapsulate data ambiguously. For example, a packet's payload in a wireless communication protocol is encoded and modulated
-in the same manner as the packet's header. This ambiguity enables a class of
-attacks exemplified by Packet in Packet[1]. Similarly, data at rest are
-typically encapsulated in a manner that can be confused with surrounding data or
-executable code. This ambiguity enables many types of attack in which user
-supplied data are interpreted as executable code.
+Existing methods of channel coding encapsulate data ambiguously. For example, a packet's payload in a wireless communication protocol is encoded and modulated in the same manner as the packet's header. This ambiguity enables a class of attacks exemplified by Packet in Packet[1]. Similarly, data at rest are typically encapsulated in a manner that can be confused with surrounding data or executable code. This ambiguity enables many types of attack in which user supplied data are interpreted as executable code.
 
-Below we demonstrate an example of unambiguous encapsulation using a delimited
-base64 file format. We then proceed to show how the technique may be applied to
+Below we demonstrate an example of unambiguous encapsulation using a delimited base64 file format. We then proceed to show how the technique may be applied to
 error correcting codes for communication and data storage.
 
 
