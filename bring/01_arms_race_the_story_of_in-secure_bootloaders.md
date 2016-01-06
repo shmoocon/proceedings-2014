@@ -33,6 +33,7 @@ The mobile device ecosystem offers a somewhat unique security challenge. In many
 #### Metadata
 
 
-Authors: Lee Harrison, Kang Li
+**Primary Author**: Lee Harrison, Kang Li
+**Primary Author**:
 Emails: <lee2704,kangli>@uga.edu
 
