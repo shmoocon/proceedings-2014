@@ -67,11 +67,9 @@ From here, the task becomes separating the two plaintexts from one another. To d
 
 Because of this, if two messages are encrypted with the same key and an attacker can intercept them, like on an open wireless network, he can analyze them to cancel out the key and eventually recover the original plaintext information.
 
-
 **Game over for our privacy...**
 
-
-## WHATSAPP PRIVACY GUARD ##
+## WHATSAPP PRIVACY GUARD
 The main objective of the research was to add a new layer of security and privacy to ensure that in the exchange of messages between members of a conversation both the integrity and confidentiality could not be affected by an external attacker. 
 
 ![WhatsApp Privacy Guard](WAPG.png)
