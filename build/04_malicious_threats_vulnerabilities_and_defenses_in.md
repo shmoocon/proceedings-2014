@@ -72,7 +72,7 @@ Because of this, if two messages are encrypted with the same key and an attacker
 ## WHATSAPP PRIVACY GUARD
 The main objective of the research was to add a new layer of security and privacy to ensure that in the exchange of messages between members of a conversation both the integrity and confidentiality could not be affected by an external attacker. 
 
-![WhatsApp Privacy Guard](WAPG.png)
+![WhatsApp Privacy Guard](imgs/WAPG.png)
 
 We created [WhatsApp Privacy Guard](http://www.seguridadofensiva.com/ "WhatsApp Privacy Guard Homepage") (**WAPG**) defined different layers inside a new hierarchy of security:  
 
