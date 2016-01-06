@@ -99,6 +99,8 @@ Results: 76 hits over 5 months, with ~60% false positive rate. Some false positi
 
 [^1] https://isc.sans.edu/forums/diary/A+Poor+Man+s+DNS+Anomaly+Detection+Script/13918
 
+#### Metadata
+
 Tags: Analytics, DNS, Webmail
 
 **Primary Author Name**: Aaron Gee-Clough  
