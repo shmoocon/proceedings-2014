@@ -34,7 +34,9 @@
 8. SafeCurves: Choosing Safe Curves for Elliptic-Curve Cryptography
   - Daniel J. Bernstein and Tanja Lange
 9. unROP: A Tool for In-Memory ROP Exploitation Detection and Traceback
-  - Kang Li, Xiaoning Li and Lee Harrison
+  - Kang Li
+  - Xiaoning Li
+  - Lee Harrison
 
 ## BELAY IT
 
