@@ -3,6 +3,7 @@
 * [Introduction](README.md)
    * [Foreword](foreword.md)
    * [ShmooCon](shmoocon.md)
+       * The Shmoo Group
    * [Editor's Note](editors_note.md)
    * [Schedule](schedule.md)
 * [ONE TRACK MIND](otm/one_track_mind.md)
