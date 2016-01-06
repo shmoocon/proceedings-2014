@@ -14,7 +14,7 @@ Analytics has become a big subject of discussion in the security community over 
 
 ### Are new domains inherently suspicious?
 
-This came from a [SANS handler's diary entry][^1]: can you do DNS anomaly detection by collecting all DNS requests, establishing a baseline, and treating any new DNS zones as inherently suspicious? 
+This came from a SANS handler's diary entry[^1]: can you do DNS anomaly detection by collecting all DNS requests, establishing a baseline, and treating any new DNS zones as inherently suspicious? 
 
 Assumptions: 
 
@@ -91,7 +91,7 @@ Results: 76 hits over 5 months, with ~60% false positive rate. Some false positi
  3. Success most often came from cross-correlating other information like reputation lists, travel schedules.
 
 
-[sans]: https://isc.sans.edu/forums/diary/A+Poor+Man+s+DNS+Anomaly+Detection+Script/13918
+[^1] https://isc.sans.edu/forums/diary/A+Poor+Man+s+DNS+Anomaly+Detection+Script/13918
 
 ## More Data, Less Hype
 Primary Author Name: Aaron Gee-Clough
