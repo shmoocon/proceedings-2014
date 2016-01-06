@@ -136,8 +136,8 @@ FaceDancer. We would also like to thank Daiki Ueno for libusb-gadget, which was
 a very useful reference for dealing with gadgetfs.
 
 
-References
-----------
+## References
+
 [^1] Wright's Law, Joshua Wright, http://code.google.com/p/zigbee-security
 [2] USBProxy, https://github.com/dominicgs/USBProxy
 [3] USBSniffer, Nicholas Boichat, http://www.elinux.org/BeagleBoard/GSoC/2010_Projects/USBSniffer
