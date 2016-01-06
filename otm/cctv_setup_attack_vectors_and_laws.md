@@ -104,3 +104,12 @@ http://boston.cbslocal.com/2013/09/27/aaron-hernandezs-girlfriend-shayanna-jenki
 
 Hacknmod
 https://hacknmod.com/hack/blind-cameras-with-an-infrared-led-hat/
+
+
+Primary Author Name: Joshua Schroeder
+Primary Author Affiliation: Consultant
+Primary Author Email: JoshInGeneral@gmail.com
+Additional Author Name: Spencer Brooks
+Additional Author Affiliation: Consultant
+Additional Author Email: Spencer.E.Brooks@gmail.com
+Keywords: CCTV, Security, Stealth, DVR, Physical Security, Law
