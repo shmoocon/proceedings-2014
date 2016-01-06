@@ -23,9 +23,12 @@
   - Dominic Spill
 3. AV Evasion with the Veil Framework
   - Christopher Truncer, TheGrayhound and Michael Wright
-	4.	Controlling USB Flash Drive Controllers: Expose of Hidden Features - Richard Harman
-	5.	Genuinely “Trusted Computing”: Free and Open Hardware Security Modules - Ryan Lackey
-	6.	Introducing idb - Simplified Blackbox iOS App Pentesting - Daniel A. Mayer
+4. Controlling USB Flash Drive Controllers: Expose of Hidden Features
+  - Richard Harman
+5. Genuinely “Trusted Computing”: Free and Open Hardware Security Modules
+  - Ryan Lackey
+6. Introducing idb - Simplified Blackbox iOS App Pentesting
+  - Daniel A. Mayer
 	7.	Malicious Threats, Vulnerabilities and Defenses in WhatsApp and Mobile Instant Messaging Platforms - Jaime Sanchez and Pablo San Emeterio
 	8.	SafeCurves: Choosing Safe Curves for Elliptic-Curve Cryptography - Daniel J. Bernstein and Tanja Lange
 	9.	unROP: A Tool for In-Memory ROP Exploitation Detection and Traceback - Kang Li, Xiaoning Li and Lee Harrison
