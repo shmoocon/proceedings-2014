@@ -53,7 +53,7 @@ The client authentication uses a custom Simple Authentication and Security Layer
 
 Stream ciphers, where plaintext bits are combined with a cipher bit stream by an exclusive-or operation **XOR**, are vulnerable to attack if key is used more than once. Let me explain myself better: 
 > Suppose Alice wants to send encryptions of **m1** and **m2** to Bob over a public channel. Alice and Bob have a shared key k; however, both messages are the same length as the key **k**. Since Alice is extraordinary lazy (and doesn't know about stream ciphers), she decides to just reuse the key. Alice sends ciphertexts **c1 = m1 ⊕ k** and **c2 = m2 ⊕ k** to Bob through a public channel. Unfortunately, Eve intercepts both of these ciphertexts and calculates **c1 ⊕ c2 = m1 ⊕ m2** . What can Eve do with **m1 ⊕ m2** ?
-![](rc4.png)
+![](imgs/rc4.png)
   
 From here, the task becomes separating the two plaintexts from one another. To do this, we have to do a little guessing about the plaintexts themselves. This sort of guessing is called a [Known-plaintext attack](http://en.wikipedia.org/wiki/Known-plaintext_attack "Known-plaintext attack")(or Crib-Dragging). The idea is to use a [Frecuency Analysis](http://en.wikipedia.org/wiki/Frequency_analysis "Frequency analysis") based on the original language used in the plaintext, following the steps bellow:    
 
