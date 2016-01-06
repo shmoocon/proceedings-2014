@@ -30,26 +30,27 @@ Application reputation is a third approach to whitelisting.  Most enterprise end
 
 By implementing whitelisting, defenders can force attackers to use exploitation to gain remote code execution.  If the defenders have done a reasonable job of patching their systems the attacker may need to resort to developing an exploit or buying one on the black market which is far more costly than simply packing or encoding “off the shelf” malware and asking someone to run it.  Whitelisting is most effective when deployed in a fully enforced mode.  However, if enforcement is not achievable, all organizations should consider implementing these technologies in an audit only mode so they can have a better chance of detecting malicious behavior.
 
-[#1]:Verizon. "2013 Data Breach Investigations Report". http://www.verizonenterprise.com/resources/reports/rp_data-breach-investigations-report-2013_en_xg.pdf 2013.
+## References
 
-[#2]:Damballa. "Advanced Malware Install Lifecycle". https://www.damballa.com/downloads/r_pubs/WP_Advanced_Malware_Install_LifeCycle.pdf 2011.
+* [#1]:Verizon. "2013 Data Breach Investigations Report". http://www.verizonenterprise.com/resources/reports/rp_data-breach-investigations-report-2013_en_xg.pdf 2013.
+* [#2]:Damballa. "Advanced Malware Install Lifecycle". https://www.damballa.com/downloads/r_pubs/WP_Advanced_Malware_Install_LifeCycle.pdf 2011.
 
-[#3]:Emisoft. "CryptoLocker – a new ransomware variant". http://blog.emsisoft.com/2013/09/10/cryptolocker-a-new-ransomware-variant/ 2013.
+* [#3]:Emisoft. "CryptoLocker – a new ransomware variant". http://blog.emsisoft.com/2013/09/10/cryptolocker-a-new-ransomware-variant/ 2013.
 
-[#4]:Mandiant. "APT1 - Exposing One of China’s Cyber Espionage Units". http://intelreport.mandiant.com/Mandiant_APT1_Report.pdf 2013.
+* [#4]:Mandiant. "APT1 - Exposing One of China’s Cyber Espionage Units". http://intelreport.mandiant.com/Mandiant_APT1_Report.pdf 2013.
 
-[#5]:Microsoft. "You can circumvent AppLocker rules by using an Office macro on a computer that is running Windows 7 or Windows Server 2008 R2". http://support.microsoft.com/kb/2532445 2011.
+* [#5]:Microsoft. "You can circumvent AppLocker rules by using an Office macro on a computer that is running Windows 7 or Windows Server 2008 R2". http://support.microsoft.com/kb/2532445 2011.
 
-[#6]:Turner, Francis. ThreatStop. "Blocking Cryptolocker Ransomware". http://blog.threatstop.com/2013/10/23/blocking-cryptolocker-ransomware/ 2012.
+* [#6]:Turner, Francis. ThreatStop. "Blocking Cryptolocker Ransomware". http://blog.threatstop.com/2013/10/23/blocking-cryptolocker-ransomware/ 2012.
 
-[#7]:Larramo, Mika. SamLogic. "Windows SmartScreen - Anti-Malware Protection in Windows 8". http://www.samlogic.net/articles/windows-8-smartscreen.htm 2012.
+* [#7]:Larramo, Mika. SamLogic. "Windows SmartScreen - Anti-Malware Protection in Windows 8". http://www.samlogic.net/articles/windows-8-smartscreen.htm 2012.
 
-[#8]:Bright, Peter. ArsTechnica. "Windows 8 privacy complaint misses the forest for the trees". http://arstechnica.com/information-technology/2012/08/windows-8-privacy-complaint-misses-the-forest-for-the-trees/ 2012
+* [#8]:Bright, Peter. ArsTechnica. "Windows 8 privacy complaint misses the forest for the trees". http://arstechnica.com/information-technology/2012/08/windows-8-privacy-complaint-misses-the-forest-for-the-trees/ 2012
 
 
+#### Metadata
 
-Primary Author: Aaron Beuhring
+Tags: whitelisting, AppLocker, firewall, reputation, antivirus, malware, trojan, Windows
 
-Primary Author Bio: Aaron is an Information Technology professional with over 12 years experience in computer support, systems administration, computer forensics and computer security.
-
-Keywords: whitelisting, AppLocker, firewall, reputation, antivirus, malware, trojan, Windows
+**Primary Author**: Aaron Beuhring  
+**Primary Author Bio**: Aaron is an Information Technology professional with over 12 years experience in computer support, systems administration, computer forensics and computer security.
