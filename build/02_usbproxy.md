@@ -62,8 +62,8 @@ This allows developers to begin writing drivers and host applications before dev
     send_data(endpoint, attributes, maxPacketSize, dataptr, length)
     receive_data(endpoint, attributes, maxPacketSize, dataptr, length, timeout)
 
-Plugins also allow bindings to be written for different languages. We have begun
-this work with a Python device plugin, which we hope will support existing
+Plugins also allow bindings to be written for different languages. We have begun this work with a Python device plugin, which we hope will support existing
+
 FaceDancer applications.
 
 
