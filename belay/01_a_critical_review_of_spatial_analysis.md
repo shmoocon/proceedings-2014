@@ -13,7 +13,7 @@ BAT (Byte Assessment Tool) is a malware analysis tool developed by the Sentar R&
 
 # Experiment
 
-For this experiment we used the now famous APT1 data set published by Mandiant [^Mandiant]. In their report, the Mandiant team details what it considers to be malware families?  In this experiment we will look at the Yahoo family data sections. We will test the null hypothesis—that is, we will try to disprove Spatial Analysis via BAT by examining its results when compared to PEBrowse [^PEBrowse] and the information about the Yahoo family provided by Mandiant.
+For this experiment we used the now famous APT1 data set published by Mandiant[^3]. In their report, the Mandiant team details what it considers to be malware families?  In this experiment we will look at the Yahoo family data sections. We will test the null hypothesis—that is, we will try to disprove Spatial Analysis via BAT by examining its results when compared to PEBrowse[^4] and the information about the Yahoo family provided by Mandiant.
 
 | Full Name (MD5 + Sentar Convention) | Short Name | 
 |:-------|:---------|
@@ -38,7 +38,7 @@ For this experiment we used the now famous APT1 data set published by Mandiant [
 
 Below is the graphical result from BAT after being initialized on two samples from the Yahoo family. Sample aa4f1 is represented as the green horizontal stripe, and sample cc3a9 is shown as the red horizontal stripe; the yellow highlights are matching code/data/strings via bytes or in this case, data.  Notice that the yellow highlights closely align.
 
-![][png2]
+![](imgs/acrsa_2.png)
 
 Now let’s compare these results with those from PEBrowse.  The largest yellow stripe (the block roughly in the middle) starts at offset 2541 or hex 0x09ED in both samples, so let’s look at that location in PEBrowse:
 
@@ -92,20 +92,14 @@ When referring to malware people often use the word “family,” but what does 
 
 Our experiments show that the idea of spatial analysis is a sound one.  Spatial analysis gives the analyst the ability to easily classify malware into groups based on shared bytes and thereby reduce the amount of malware that must be observed and reverse engineered.   The graphical display highlights similar structures that can be used to identify other matching artifacts.  Spatial analysis brings out the strengths in the analyst and the computer by allowing the analyst to observe patterns in structure of malware and the computer to now examine malware at the byte level.   
 
+## References
+
 * [^1] H. M. Jaenisch, J. Handley, and D. Williams, "Digital microArray analysis for digital artifact genomics," Proceedings of the SPIE, vol. 8757, 2013.
 * [^2] H. M. Jaenisch. (2010). Digital virus recognition - http://spie.org/x40459.xml?ArticleID=x40459
-* [^Mandiant] MANDIANT. (2010). M-trends: The Advanced Persistent Threat - http://www.princeton.edu/~yctwo/files/readings/M-Trends.pdf
-* [^PEBrowse] SmidgeonSoft. (2013). Windows Programming Utilities - http://www.smidgeonsoft.prohosting.com/
-
-[png1]: 1.png ""
-[png2]: 2.png ""
-[png3]: 3.png ""
-[png4]: 4.png ""
-[png5]: 5.png ""
-[png6]: 6.png ""
+* [^3] MANDIANT. (2010). M-trends: The Advanced Persistent Threat - http://www.princeton.edu/~yctwo/files/readings/M-Trends.pdf
+* [^4] SmidgeonSoft. (2013). Windows Programming Utilities - http://www.smidgeonsoft.prohosting.com/
 
 
-Title: A Critical Review of Spatial Analysis
 Primary Author Name: David Giametta
 Primary Author Affiliation: Sentar, Inc.
 Primary Author Email: davidgiametta@gmail.com
