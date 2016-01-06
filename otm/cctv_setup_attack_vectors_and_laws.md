@@ -1,13 +1,6 @@
 # CCTV - Setup, Attack Vectors and Laws
 
-Primary Author Name: Joshua Schroeder
-Primary Author Affiliation: Consultant
-Primary Author Email: JoshInGeneral@gmail.com
-Additional Author Name: Spencer Brooks
-Additional Author Affiliation: Consultant
-Additional Author Email: Spencer.E.Brooks@gmail.com
-Keywords: CCTV, Security, Stealth, DVR, Physical Security, Law
-Abstract: 
+## Abstract: 
 Ever wonder how to set-up a CCTV Digital Video Recording security system? This article talks about just that, as well as key factors like attack vectors and recording laws.
 
 First, we will go over basic setup on how we planned out this project. This will include things to be mindful of such as camera quality, disk space and other features. In the second part, we will cover attack vectors we considered while setting the system and how we designed a special project to help stay anonymous from CCTV systems. 
