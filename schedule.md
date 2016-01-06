@@ -2,7 +2,7 @@
 
 ## ONE TRACK MIND
 
-1. [Attacker Ghost Stories: Mostly Free Defenses That Give Attackers Nightmares](otm/01) 
+1. [Attacker Ghost Stories: Mostly Free Defenses That Give Attackers Nightmares](otm/01_attacker_ghost_stories.md) 
   - Rob Fuller
 2. CCTV: Setup, Attack Vectors, and Laws
   - Joshua Schroeder and Spencer Brooks
