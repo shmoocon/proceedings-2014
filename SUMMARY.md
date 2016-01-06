@@ -4,5 +4,6 @@
    * [Foreword](foreword.md)
    * [The Shmoo Group](the_shmoo_group.md)
    * [Editor's Note](editors_note.md)
+   * Schedule
 * [First Chapter](chapter1.md)
 
