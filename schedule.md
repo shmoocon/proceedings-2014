@@ -5,7 +5,8 @@
 1. [Attacker Ghost Stories: Mostly Free Defenses That Give Attackers Nightmares](otm/01_attacker_ghost_stories.md) 
   - Rob Fuller
 2. [CCTV: Setup, Attack Vectors, and Laws](otm/02_cctv_setup_attack_vectors_and_laws.md)
-  - Joshua Schroeder and Spencer Brooks
+  - Joshua Schroeder
+  - Spencer Brooks
 3. The Dissipation of Hackers in the Enterprise
   - Weasel
 4. The Evolution of Linux Kernel Module Signing
