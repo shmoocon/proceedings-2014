@@ -69,14 +69,13 @@ We have built upon these initial successful findings, using a C implementation o
 
 In the future we hope to identify additional classes of error correcting codes that provide encapsulation. For each class of codes, we will either prove by construction that they exist or by exhaustive search that they do not exist up to a certain codeword length.
 
-Conclusion
-----------
+## Conclusion
+
 Unambiguous encapsulation is a useful design pattern that can be applied in any case where data are encapsulated.
 
 We hope that the codes produced by this project will be useful in practical applications and that we have been able to promote discussion around the concept of unambiguous encapsulation.
 
-Acknowledgments
----------------
+##Acknowledgments
 
 We would like to thank members of the LANGSEC community for their advice, encouragement, and feedback. We also thank Mike Kershaw and David Hulton for assistance with the project.
 
