@@ -79,7 +79,7 @@
 
 1. Abusing ACPI Control Methods
   - Assambly
-2. Arms Race: The Story of (In)-Secure Bootloaders
+2. [Arms Race: The Story of (In)-Secure Bootloaders](bring/01_arms_race_the_story_of_in-secure_bootloaders.md)
   - Lee Harrison
   - Kang Li
 3. How to Train your Snapdragon: Exploring Power Frameworks on Android
