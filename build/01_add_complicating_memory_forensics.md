@@ -36,6 +36,8 @@ To facilitate the forgery of items that still appear in allocated memory, a devi
 
 We have been criticized for introducing this framework and making this technology available to attackers and other evildoers.  However, we aren’t convinced that this technology isn’t already available to criminals.  Having studied the available tools, we understand just how fragile memory forensics is.  The fact that our framework can inject fake file objects, network connections, and processes, fooling traditional techniques means that we can’t tell (using today’s tools) if an attacker is **already** doing this.  The goal of this research is to offer a framework that developers can use to test their tool’s resistance to such trickery.
 
+#### Metadata
+
 Tags: Memory Forensics, Malware, APT, Anti-Forensics
 
 **Primary Author Name**: Jacob Williams  
