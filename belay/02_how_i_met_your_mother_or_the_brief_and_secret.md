@@ -28,24 +28,24 @@ Starting in 1938, the Enigma was altered to increase its complexity, and each ti
 
 ![](imgs/Wynn-Williams_Scale-of_-Two_Counter_from_the_Cavendish_Laboratory,_University_of_Cambridge,UK.jpg)
 
-Heath Robinson
+## Heath Robinson
 
 With the interception of a rare message in depth, and the success of the high speed tube modules, Bletchley Park set out to crack the Lorenz cipher with an unprecedented assemblage of vacuum tubes. The math is straightforward, the device will be an event counter, triggered every time all or part of the baudot code is the same as the code above it. The Machine has two sets of optical readers, one for the key and one for the message, and each set has two rows, the current character and the previous character. The logic level combines the key with the message (xor) and compares the outputs of the two characters for similarity (Also xor). This is effective because the incidence of repeated characters in the plain text is higher than random text; a phenomena which is evidenced by counting any of the five baudot bitstreams in isolation or in combinations of a few bit streams. The first machine is a massive collection of wheels and tubes, with a tendency to break the key tape in a percussive event akin to movie film when it breaks during a rewind - much deserving of the moniker: Heath Robinson - the British equivalent of Rube Goldberg.
 
-1943 A Golden Age
+## 1943 A Golden Age
 
 Tommy Flowers realizes the solution is to eliminate the key wheel, and the sprockets which wear out the tape. Max Newman, and the others think the idea too complicated to work, but Flowers goes back to his office at British Telecom with determination, and spends 11 months with a team of 50, to rebuild it bigger and better. Gone is the keytape; all of its complexity subsumed in a bank of counting valves, gone is the sprockets which wear out the message tapes before they complete their 4000 cycles, and gone are the double row of optical readers - replaced by a shift register which remembers the prior character. Add to that a filter to ignore improbable results, some switches to adjust the logical test, and a conditional branching circuit that pauses the message advancement if the printer is busy when the next count is ready.
 
 The first Colossus is delivered in December, the upgrade with 5 parallel counters and a shift register, allows the Colossus Mark II to analyse 5 message positions in a single round. The Lorenz cipher is broken with regularity for the remainder of the war. Perhaps more importantly, Britain has its first genius bar, a group of people, sworn to secrecy, who know how to build computers. These are the Werner von Braun's of the Computer, powerful and dangerous men who brought new ideas into the world in its darkest hour.
 
-Post War
+## Post War
 
 Churchill's orders after the war are to destroy the Colossus, and he appears to have included Turing in the bargain. The United States has fallen into Mccarthyism, Gays and Communists are the new enemy, and it is the United States who encouraged England to purge itself of the gay.
 
 Gays were more likely to defect from countries that tried them as criminals, it was argued, and so they tried Turing for buggery, and after undergoing chemical castration, one of the leading experts in a leading field of science, driven from his profession, hounded by gaybashing spooks, tortured by the crown, buried alive, Turing died, with not even himself for company, a single bite missing from an apple, reminiscent of the couplet he was heard to quote;
 
-     Dip the apple in the brew
-          Let the sleeping Death seep through.[^Bryant]
+> Dip the apple in the brew  
+> Let the sleeping Death seep through.[^1]
 
 This is his story.
 
@@ -53,28 +53,25 @@ We don’t know how he came to die - only why - a persistent government obsessio
 
 Throughout History, The penalty for those who open our collective eyes to d around understanding of the Universe, the World around us, Ourselves, disrupting the establishment, are constantly individualized, targeted, marginalized, exiled, excommunicated, imprisoned or killed - usually by some anonymous irrational institution. We don’t know the name of the prosecutor who sent Turing to an early grave. We ought to: such should not go quietly into the night.
 
-Wired has an excellent article about the protracted persecution of scientists - often by a church - from Galileo to Turing[^Wired1]. What about now? Aaron Swartz died last year, crushed by Prosecutor Carmen Ortiz for what? releasing the findings of tax funded research?
+Wired has an excellent article about the protracted persecution of scientists - often by a church - from Galileo to Turing[^2]. What about now? Aaron Swartz died last year, crushed by Prosecutor Carmen Ortiz for what? Releasing the findings of tax funded research?
 
-Cost of Spying
+## Cost of Spying
 
-The Snowden case is more delicate - clearly he broke a law by disclosing what the NSA has done - but many people and the courts now agree[^NYTimes], the government appears to have committed criminal espionage on it’s own people - evoking the spectre of the KGB. The cost of one nuclear accident: Chernobyl, in 1989, erased all the economic gains that came from the soviet use of nuclear power. How do we measure the value of espionage, and compare it to the foreign policy costs of losing the moral high ground to the communists - whom we so loudly accused of spying on their own people? The 2001 Nobel Prize in Economics[^CNN] recognized the importance of Information Asymmetry in both contract theory and economics - in short - if the people you’re trading stocks with have better information than you do - they’ll win and you’ll lose. What is the effect on the dollar denominated economy if traders come to realize that the NSA permits[^Wired2] of US workers access to information that it steals from buried fiber, RSA backdoors, Tapping Cellphone and the like? if Trust is the product; what then the cost of the NSA spying on the everyday activities of its own citizenry? If there is a way to ensure that this level of internal espionage won’t be abused - certainly the NSA has demonstrated it cannot be trusted.
+The Snowden case is more delicate - clearly he broke a law by disclosing what the NSA has done - but many people and the courts now agree[^3], the government appears to have committed criminal espionage on it’s own people - evoking the spectre of the KGB. The cost of one nuclear accident: Chernobyl, in 1989, erased all the economic gains that came from the soviet use of nuclear power. How do we measure the value of espionage, and compare it to the foreign policy costs of losing the moral high ground to the communists - whom we so loudly accused of spying on their own people? The 2001 Nobel Prize in Economics[^4] recognized the importance of Information Asymmetry in both contract theory and economics - in short - if the people you’re trading stocks with have better information than you do - they’ll win and you’ll lose. What is the effect on the dollar denominated economy if traders come to realize that the NSA permits[^5] of US workers access to information that it steals from buried fiber, RSA backdoors, Tapping Cellphone and the like? If Trust is the product; what then the cost of the NSA spying on the everyday activities of its own citizenry? If there is a way to ensure that this level of internal espionage won’t be abused - certainly the NSA has demonstrated it cannot be trusted.
 
 What can we learn from our History? Perhaps that government overreach between wars can be as cruel and unforgiving on some as the wars themselves are on others?
 
-Afterward
+## Afterward
 
 I come to this history, not as a historian, but as a mathematician: 2 years ago, Bob Weiss[a] and I began exploring the cryptanalysis of the Enigma machine, along the way we found that most of the of the 4 or 5 simulators online - including the emulator on Bletchley Park’s own website -  are flawed and incoherent, we won a dinner bet with the NSA (ok, an employee) on the effect of the steckerbrett, we found two weaknesses and built a massively parallel Enigma simulation for gpu to exploit them. That research was presented at 44con during the Turing Centenery, and while in London, we visited Bletchley Park, the Enigma Bombs, and the Colossus machine - which immediately intrigued me, in part because the frequency attack was closer to what we were doing with the Enigma than the Bombe which is a known plaintext attack. The Colossus is a single bucket frequency counter - not quite the chi squared frequency distribution test we use; but the elements are there, and I wanted to dig a bit deeper.
 
+## References
 
-[a]: redacted until I send courtesy copy
-
-[^Bryant]: http://www.polarimagazine.com/features/killing-alan-turing/, Written by Christopher Bryant
-[^Wired1]: http://www.wired.co.uk/news/archive/2012-06/21/scientists-persecuted-turing
-[^NYTimes]: http://www.nytimes.com/2014/01/02/opinion/edward-snowden-whistle-blower.html?_r=0
-[^CNN]: http://money.cnn.com/2001/10/10/economy/nobel/
-[^Wired2]: http://www.wired.com/threatlevel/2012/07/security-clearances-increasing/
-
-[gatti1]: 800px-Wynn-Williams_Scale-of_-Two_Counter_from_the_Cavendish_Laboratory%2C_University_of_Cambridge%2CUK.jpg "Cavendish Laboratory, University of Cambridge, UK"
+* [^1] http://www.polarimagazine.com/features/killing-alan-turing/, Written by Christopher Bryant
+* [^2] http://www.wired.co.uk/news/archive/2012-06/21/scientists-persecuted-turing
+* [^3] http://www.nytimes.com/2014/01/02/opinion/edward-snowden-whistle-blower.html?_r=0
+* [^4] http://money.cnn.com/2001/10/10/economy/nobel/
+* [^5] http://www.wired.com/threatlevel/2012/07/security-clearances-increasing/
 
 
 
