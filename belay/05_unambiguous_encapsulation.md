@@ -39,8 +39,8 @@ Delimited base64 files can encode any 8-bit data while csv files typically may i
 An example of a similar solution is Dan Kaminsky's Interpolique[^3]. However, the outer character set (the delimiters) for a delimited base64 file format may be chosen so that it does not overlap at all with the character set of the inner encoding. This makes it easier to prove that malicious inner data can't be interpreted as outer data.
 
 
-Error Control Codes
--------------------
+## Error Control Codes
+
 
 While our delimited base64 file format is a helpful introduction to the concept
 of unambiguous encapsulation, our main area of interest is applying the
