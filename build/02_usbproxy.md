@@ -42,8 +42,7 @@ There are four plugin categories: host proxies, device proxies, filters and inje
 
 Filters are used to read and modify packets in transit. Some filters log packets without modification, while others can be used to filter unwanted packets or modify the content. For example filters exist to log keystrokes from a USB keyboard or dump all USB packets in pcap format so that they can be imported in to Wireshark[^9].
 
-The final set of plugins allow packets to be injected in to the connection, such
-as keystrokes being added or inserting unexpected audio.
+The final set of plugins allow packets to be injected in to the connection, such as keystrokes being added or inserting unexpected audio.
 
 
 Extending USBProxy
