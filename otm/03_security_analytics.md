@@ -18,8 +18,8 @@ This came from a SANS handler's diary entry[^1]: can you do DNS anomaly detectio
 
 Assumptions: 
 
-  1. Your attacker is using a domain your users haven't looked up before. 
-  2. Your users mostly go to the same domains over and over. 
+1. Your attacker is using a domain your users haven't looked up before. 
+2. Your users mostly go to the same domains over and over. 
 
 Results: if you graph the number of new domains looked up per hour, you get:
 
