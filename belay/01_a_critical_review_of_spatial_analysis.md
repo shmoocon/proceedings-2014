@@ -48,7 +48,7 @@ As shown, samples aa4f1 and cc3a9 in PEBrowse have almost identical values start
 
 Now let’s look at an area of supposedly non-matching data, after the last yellow stripe is at offset 3888 or in hex 0xF30:
 
-![][png4]
+![](imgs/acrsa_4.png)
 
 It’s clear that, although similar, the two different URLs on lines 0xF50 and 0xFA0 make this area a lot less similar than the yellow areas, and when BAT displays yellow the samples do indeed have similar bytes, or in this case data.  
 
@@ -74,7 +74,7 @@ There are two problems with these results.   First, the detector failed to ident
 
 Let’s look at the samples Mandiant declared as members of the Yahoo family. In the picture below, the three samples not found by the detector are completely grey, indicating no shared bytes. Note the picture was edited to show delineation between samples.
 
-![][png5]
+![](imgs/acrsa_5.png)
 
 The way BAT displays results allows the user to begin to see patterns or structures of shared bytes at similar offsets in the sample.  As we can see above, blocks of yellow in each sample form columns with each additional matching sample.  In this case the lack of structure or shared data indicates samples f7f85, 0149b, and 1415e are not proper members of Yahoo by shared data.
 
@@ -82,7 +82,7 @@ The way BAT displays results allows the user to begin to see patterns or structu
 
 We took ten of the eleven samples identified by the detector and examined them with BAT.  (The eleventh sample was too large to display with the other samples)  The picture below shows all ten share consistently structured data. Note the picture was edited to show delineation between samples.
 
-![][png6]
+![](imgs/acrsa_6.png)
 
 After examining these ten, we went back and looked at the omitted sample separately and found it too shared the same consistent amount of data forming the same structure.
 
@@ -99,11 +99,11 @@ Our experiments show that the idea of spatial analysis is a sound one.  Spatial 
 * [^3] MANDIANT. (2010). M-trends: The Advanced Persistent Threat - http://www.princeton.edu/~yctwo/files/readings/M-Trends.pdf
 * [^4] SmidgeonSoft. (2013). Windows Programming Utilities - http://www.smidgeonsoft.prohosting.com/
 
+Tags: Visual Malware Analysis, Spatial Analysis, Byte Sequences, Statistical Features
 
-Primary Author Name: David Giametta
-Primary Author Affiliation: Sentar, Inc.
-Primary Author Email: davidgiametta@gmail.com
-Additional Author Name: Andrew Potter
-Additional Author Affiliation: Sentar, Inc.
-Additional Author Email: andrew.potter@sentar.com
-Keywords: Visual Malware Analysis, Spatial Analysis, Byte Sequences, Statistical Features
+**Primary Author Name**: David Giametta  
+**Primary Author Affiliation**: Sentar, Inc.  
+**Primary Author Email**: davidgiametta@gmail.com  
+**Additional Author Name**: Andrew Potter  
+**Additional Author Affiliation**: Sentar, Inc.  
+**Additional Author Email**: andrew.potter@sentar.com  
