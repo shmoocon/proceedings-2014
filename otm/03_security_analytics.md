@@ -14,7 +14,7 @@ Analytics has become a big subject of discussion in the security community over 
 
 ### Are new domains inherently suspicious?
 
-This came from a [SANS handler's diary entry][sans]: can you do DNS anomaly detection by collecting all DNS requests, establishing a baseline, and treating any new DNS zones as inherently suspicious? 
+This came from a [SANS handler's diary entry][^1]: can you do DNS anomaly detection by collecting all DNS requests, establishing a baseline, and treating any new DNS zones as inherently suspicious? 
 
 Assumptions: 
 
