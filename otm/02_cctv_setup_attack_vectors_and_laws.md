@@ -83,6 +83,7 @@ Tags: CCTV, Security, Stealth, DVR, Physical Security, Law
 **Primary Author Name**: Joshua Schroeder  
 **Primary Author Affiliation**: Consultant  
 **Primary Author Email**: JoshInGeneral@gmail.com  
+
 **Additional Author Name**: Spencer Brooks  
 **Additional Author Affiliation**: Consultant  
 **Additional Author Email**: Spencer.E.Brooks@gmail.com  
